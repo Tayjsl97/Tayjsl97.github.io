@@ -21,9 +21,9 @@ Lastest Update: 27th Nov 2023&nbsp;
 
 - [A Survey on Deep Learning for Symbolic Music Generation: Representations, Algorithms, Evaluations, and Challenges](https://dl.acm.org/doi/abs/10.1145/3597493)<br>**Shulei Ji**, Xinyu Yang, Jing Luo<br>ACM Computing Surveys, Volume 56, Issue 1, Article No.: 7, pp 1–39<br>August 2023
 
-- [RL-Chord: CLSTM-Based Melody Harmonization Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10063204)<br>**Shulei Ji**, Xinyu Yang, Jing Luo, Juan Li<br>IEEE Transactions on Neural Networks and Learning Systems<br>March 2023
+- [RL-Chord: CLSTM-Based Melody Harmonization Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10063204)<br>**Shulei Ji**, Xinyu Yang, Jing Luo, Juan Li<br>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)<br>March 2023
 
-- [EmoMusicTV: Emotion-conditioned Symbolic Music Generation with Hierarchical Transformer VAE](https://ieeexplore.ieee.org/abstract/document/10124351)<br>**Shulei Ji**, Xinyu Yang<br>IEEE Transactions on Multimedia<br>May 2023
+- [EmoMusicTV: Emotion-conditioned Symbolic Music Generation with Hierarchical Transformer VAE](https://ieeexplore.ieee.org/abstract/document/10124351)<br>**Shulei Ji**, Xinyu Yang<br>IEEE Transactions on Multimedia (TMM)<br>May 2023
 
   <br>
 
