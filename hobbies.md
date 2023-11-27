@@ -16,6 +16,8 @@ title: Hobbies
 <img src="/images/photo1.jpg">
 <img src="/images/photo4.jpg">
 <img src="/images/photo5.jpg">
+</div>
+<div class="third">
 <img src="/images/photo8.jpg">
 <img src="/images/photo6.jpg">
 <img src="/images/photo7.jpg">
