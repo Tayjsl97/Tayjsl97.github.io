@@ -7,11 +7,11 @@ title: Hobbies
 # Hobbies
 
 ## Balls
-### Table Tennis
+### Table Tennis 🏓❤️
 
-### Badminton
+### Badminton 🏸❤️
 
-## Taking photos
+## Taking photos 📷❤️
 <div class="third">
 <img src="/images/photo1.JPG">
 <img src="/images/photo2.JPG">
@@ -20,7 +20,7 @@ title: Hobbies
 </div>
 <br>I enjoy taking photos to capture the beauty in life, which will be a valuable treasure for the future.
 
-## Listen to the Music of Taylor Swift!
+## Listen to the Music of Taylor Swift! 🎧❤️
 <div class="third">
 <img src="/images/taylor1.JPG">
 <img src="/images/taylor2.JPG">
