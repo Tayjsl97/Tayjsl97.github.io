@@ -10,7 +10,7 @@ title: Demos
 <table rules="none">
 <tr>
 <td>
-<img src="/images/demo1.jpg" width="1800" height="2400"/>
+<img src="/images/demo1.jpg" width="10800" height="14400"/>
 </td>
 <td>
 <p>-[EmoMusicTV](https://github.com/Tayjsl97/EmoMusicTV)<br>
