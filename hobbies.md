@@ -14,9 +14,11 @@ title: Hobbies
 ## Taking photos 📷❤️
 <div class="third">
 <img src="/images/photo1.jpg">
-<img src="/images/photo2.jpg">
-<img src="/images/photo3.jpg">
 <img src="/images/photo4.jpg">
+<img src="/images/photo5.jpg">
+<img src="/images/photo6.jpg">
+<img src="/images/photo7.jpg">
+<img src="/images/photo8.jpg">
 </div>
 <br>I enjoy taking photos to capture the beauty in life, which will be a valuable treasure for the future.
 
@@ -26,6 +28,8 @@ title: Hobbies
 <img src="/images/taylor2.jpg">
 <img src="/images/taylor3.jpg">
 <img src="/images/taylor4.jpg">
+<img src="/images/taylor5.jpg">
+<img src="/images/taylor6.jpg">
 </div>
 <br>I am a big fan of Taylor Swift. She is a hardworking, talented, and successful woman who inspires me in various aspects of life, motivating me to strive towards my goals.
 
