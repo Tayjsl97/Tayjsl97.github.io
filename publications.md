@@ -4,38 +4,31 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+Lastest Update: 27th Nov 2023&nbsp;  
+<!--[中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)-->
 
 ## Conference Paper
 
-- [BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence (AAAI 2024)<br>(Under Review) Vancouver, Canada. February, 2024.
+- [Emotion-Conditioned Melody Harmonization with Hierarchical Variational Autoencoder](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Shulei Ji**, Xinyu Yang<br>The 2023 IEEE Conference on Systems, Man, and Cybernetics (IEEE SMC 2023)<br> Honolulu, Oahu, Hawaii, USA. Octorber, 2023.
 
-- [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
+- [ADFF: Attention Based Deep Feature Fusion Approach for Music Emotion Recognition](https://www.isca-speech.org/archive/pdfs/interspeech_2022/huang22d_interspeech.pdf)<br>Zi Huang, **Shulei Ji**, Zhilan Hu, Chuangjian Cai, Jing Luo, Xinyu Yang<br>INTERSPEECH 2022<br>Incheon Songdo ConvensiA, Korea. September, 2022.
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+- [MG-VAE: Deep Chinese folk songs generation with specific regional styles](https://link.springer.com/chapter/10.1007/978-981-15-2756-2_8)<br>Jing Luo, Xinyu Yang, **Shulei Ji**, Juan Li<br>The 7th Conference on Sound and Music Technology (CSMT 2019)<br>Harbin, China. December 2019.
 
   <br>
 
 ## Journal Paper
 
-- Coming soon... 🚀
+- [A Survey on Deep Learning for Symbolic Music Generation: Representations, Algorithms, Evaluations, and Challenges](https://dl.acm.org/doi/abs/10.1145/3597493)<br>**Shulei Ji**, Xinyu Yang, Jing Luo<br>ACM Computing Surveys, Volume 56, Issue 1, Article No.: 7, pp 1–39<br>August 2023
+
+- [RL-Chord: CLSTM-Based Melody Harmonization Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10063204)<br>**Shulei Ji**, Xinyu Yang, Jing Luo, Juan Li<br>IEEE Transactions on Neural Networks and Learning Systems<br>March 2023
+
+- [EmoMusicTV: Emotion-conditioned Symbolic Music Generation with Hierarchical Transformer VAE](https://ieeexplore.ieee.org/abstract/document/10124351)<br>**Shulei Ji**, Xinyu Yang<br>IEEE Transactions on Multimedia<br>May 2023
 
   <br>
 
-## Working Manuscript
+## Arxiv
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>Sensors Journal (IF: 3.847). Under major modification.<br>
-
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
-
-  <br>
-
----
-
-## Undergraduate Thesis
-
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to submit a research paper to IEEE Internet of Things Journal.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
+- [A comprehensive survey on deep music generation: Multi-level representations, algorithms, evaluations, and future directions]<br>**Shulei Ji**, Jing Luo, Xinyu Yang
 
   <br>
