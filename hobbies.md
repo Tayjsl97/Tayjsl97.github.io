@@ -31,6 +31,6 @@ title: Hobbies
 <img src="/images/taylor5.jpg">
 <img src="/images/taylor6.jpg">
 </div>
-<br>I am a big fan of Taylor Swift. She is a hardworking, talented, and successful woman who inspires me in various aspects of life, motivating me to strive towards my goals.
+<br>I am a big fan of Taylor Swift. I like Taylor because she is a hardworking, talented, and successful woman who inspires me in various aspects of life, motivating me to strive towards my goals.
 
 
