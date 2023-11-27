@@ -10,7 +10,7 @@ title: Demos
 <table rules="none">
 <tr>
 <td>
-<img src="/images/demo1.jpg" width="180" height="240"/>
+<img src="/images/demo1.jpg" width="1800" height="2400"/>
 </td>
 <td>
 <p>-[EmoMusicTV](https://github.com/Tayjsl97/EmoMusicTV)<br>
@@ -20,7 +20,7 @@ EmoMusicTV is a transformer-based variational autoencoder (VAE) that contains a 
   
 <tr>
 <td>
-<img src="/images/demo2.jpg" width="180" height="240"/>
+<img src="/images/demo2.jpg" width="1800" height="2400"/>
 </td>
 <td>
 <p>-[paper]()<br>
