@@ -16,9 +16,9 @@ title: Hobbies
 <img src="/images/photo1.jpg">
 <img src="/images/photo4.jpg">
 <img src="/images/photo5.jpg">
+<img src="/images/photo8.jpg">
 <img src="/images/photo6.jpg">
 <img src="/images/photo7.jpg">
-<img src="/images/photo8.jpg">
 </div>
 <br>I enjoy taking photos to capture the beauty in life, which will be a valuable treasure for the future.
 
