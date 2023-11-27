@@ -23,6 +23,7 @@ title: Hobbies
 <img src="/images/photo6.jpg">
 <img src="/images/photo7.jpg">
 </div>
+
 <br>I enjoy taking photos to capture the beauty in life, which will be a valuable treasure for the future.
 
 ## Listen to the Music of Taylor Swift! 🎧❤️
