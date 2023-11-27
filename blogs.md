@@ -13,11 +13,3 @@ EmoMusicTV is a transformer-based variational autoencoder (VAE) that contains a 
 - [paper]()
 
 <br>
-
-## Leave a Message
-
-<br>
-
-{% include disqus.html %} 
-
-<br>
