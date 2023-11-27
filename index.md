@@ -29,7 +29,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Automatic Music Generation
 - Deep Generative Model
 
-My current research focuses on automatic music generation using artificial intelligence techniques. My interests are on the **Deep Generative Model** and its applications in **Intelligent Music Generation**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on automatic music generation using artificial intelligence techniques. My interests are on the **Deep Generative Model** and its applications in **Intelligent Music Generation**. Automatic music generation represents an innovative approach in advancing the field of music. I aspire to contribute my talents to this realm, aiming to introduce fresh opportunities and possibilities for music creation, education, and entertainment.
 
 <br>
 
