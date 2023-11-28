@@ -23,7 +23,7 @@ Lastest Update: 27th Nov 2023 &nbsp; 
 - Supported by Huawei Technologies Co., Ltd. - Major Participant
 - Research Topics: Large-scale Musical Emotion Dataset Construction, Static and Dynamic Music Emotion Recognition
 
-## Teaching Assitant
+## Teaching Assistant
 - May 2021 - June 201: Graph Theory and Its Applications, XJTU
 - May 2022 - June 202: Graph Theory and Its Applications, XJTU
 
