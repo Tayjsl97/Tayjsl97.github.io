@@ -14,13 +14,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 <br>
 
-## Academic Background
-
-- **Sep 2015 - June 2019:** Northwestern Polytechnical University (BEng)
-- **Sep 2019 - now:** Xi'an Jiaotong University (PhD candidate)
-
-<br>
-
 ---
 
 ## Research Interests
