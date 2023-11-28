@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/jishulei.jpg" class="floatpic" width="300" height="300">
+<img src="/images/jishulei.jpg" class="floatpic" width="200" height="200">
 
 Here is **Shulei Ji (Shirly, 吉姝蕾)**.
 
