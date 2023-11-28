@@ -6,7 +6,7 @@ title: Hobbies
 
 # Hobbies
 
-## Balls
+## Playing Balls
 ### Table Tennis 🏓❤️
 
 ### Badminton 🏸❤️
@@ -26,7 +26,7 @@ title: Hobbies
 
 <br>I enjoy taking photos to capture the beauty in life, which will be a valuable treasure for the future.
 
-## Listen to the Music of Taylor Swift! 🎧❤️
+## Listening to Music of Taylor Swift! 🎧❤️
 <div class="third">
 <img src="/images/taylor1.jpg">
 <img src="/images/taylor2.jpg">
