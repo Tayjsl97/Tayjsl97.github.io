@@ -16,8 +16,8 @@ Lastest Update: 27th Nov 2023 &nbsp; 
 ### Deep Music Generation
 - Sep 2019 - now
 - Supported by Prof. Xinyu Yang
-- Research Topics: Symbolic Music Generation, Conditional and Controllable Music Generation, Deep Generative Models
-<br>
+- Research Topics: Symbolic Music Generation, Conditional and Controllable Music Generation, Deep Generative Models<br>
+
 ### Music Emotion Recognition
 - Aug 2021 - Aug 2022
 - Supported by Huawei Technologies Co., Ltd. - Major Participant
