@@ -13,10 +13,11 @@ Lastest Update: 27th Nov 2023 &nbsp; 
 - **Sep 2015 - June 2019:** Northwestern Polytechnical University (BEng)
 
 ## Research Experiences
-### Deep Muic Generation
+### Deep Music Generation
 - Sep 2019 - now
 - Supported by Prof. Xinyu Yang
-- Research Topics: Symbolic Music Generation, Conditional and Controllable Music Generation, Deep Generative Models 
+- Research Topics: Symbolic Music Generation, Conditional and Controllable Music Generation, Deep Generative Models
+<br>
 ### Music Emotion Recognition
 - Aug 2021 - Aug 2022
 - Supported by Huawei Technologies Co., Ltd. - Major Participant
