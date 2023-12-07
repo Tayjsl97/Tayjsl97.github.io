@@ -13,7 +13,7 @@
 
 <div>
 <midi-visualizer type="piano-roll" id="mainVisualizer1" src="https://tayjsl97.github.io/demos/tmm_music/m1.mid"></midi-visualizer>
-<midi-player src="https://tayjsl97.github.io/demos/tmm_music/m1.mid" sound-font visualizer="#mainVisualizer1" id="mainPlayer">
+<midi-player src="https://tayjsl97.github.io/demos/tmm_music/m1.mid" sound-font visualizer="#mainVisualizer1" id="mainPlayer1">
 </midi-player>
 </div>
 <br>
