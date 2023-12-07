@@ -1244,6 +1244,35 @@ h1.project-name {
       #mainVisualizer .piano-roll-visualizer svg rect.note[data-instrument="199"] {
         fill: #00b680; }
 
+
+#mainVisualizer1 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #mainVisualizer1 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #mainVisualizer1 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #mainVisualizer1 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #mainVisualizer1 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #mainVisualizer1 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #0062cc; }
+      #mainVisualizer1 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #00b680; }
+      #mainVisualizer1 .piano-roll-visualizer svg rect.note[data-instrument="2"] {
+        fill: #de0015; }
+      #mainVisualizer1 .piano-roll-visualizer svg rect.note[data-instrument="3"] {
+        fill: #4f00cf; }
+      #mainVisualizer1 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
+        fill: #d39e00; }
+
 #mainPlayer::part(control-panel) {
   border-radius: 0 0 10px 10px;
   border: 1px solid #e9e9e9;
