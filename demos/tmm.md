@@ -16,7 +16,7 @@
 </midi-visualizer>
 <midi-player
   src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/twinkle_twinkle.mid"
-  sound-font visualizer="#section1 midi-visualizer">
+  sound-font visualizer="#section3 midi-visualizer">
 </midi-player>
 </div>
 
