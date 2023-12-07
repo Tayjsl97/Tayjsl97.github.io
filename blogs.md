@@ -13,10 +13,11 @@ title: Demos
 A Survey on Deep Learning for Symbolic Music Generation: Representations, Algorithms, Evaluations, and Challenges<br>
 <br>
 
-<div>
+<div align="center"><img width="700" height="200" src="/images/demo0.png"/></div>
+<!--<div>
 <img src="/images/demo0.png" class="demopic0" width="700" height="200"/><br>
 </div>
-
+-->
 - This paper attempts to provide a task-oriented survey of symbolic music generation based on deep learning techniques, covering most of the currently popular music generation tasks. The distinct models under the same task are set forth briefly and strung according to their motivations, basically in chronological order. 
 - Accepted by the **ACM Computing Surveys**.
 - [**Paper link**](https://dl.acm.org/doi/10.1145/3597493)
