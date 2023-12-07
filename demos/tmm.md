@@ -1,14 +1,6 @@
 
 # Generated melody
 
-#### Example 0
-<div>
-<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid"></midi-visualizer>
-<midi-player src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
-</midi-player>
-</div>
-<br>
-
 #### Example 1
 <div>
 <midi-visualizer type="piano-roll" id="mainVisualizer" src="https://tayjsl97.github.io/demos/tmm_music/m0.mid"></midi-visualizer>
@@ -27,221 +19,151 @@
 <br>
 
 
-[//]: # ()
-[//]: # (#### Example 3)
 
-[//]: # (<div>)
+#### Example 3
 
-[//]: # (<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/m2.mid"></midi-visualizer>)
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://tayjsl97.github.io/demos/tmm_music/m2.mid"></midi-visualizer>
+<midi-player src="https://tayjsl97.github.io/demos/tmm_music/m2.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+<br>
 
-[//]: # (<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">)
 
-[//]: # (</midi-player>)
+#### Example 4
 
-[//]: # (</div>)
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://tayjsl97.github.io/demos/tmm_music/m3.mid"></midi-visualizer>
+<midi-player src="https://tayjsl97.github.io/demos/tmm_music/m3.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+<br>
 
-[//]: # (<br>)
 
-[//]: # ()
-[//]: # (#### Example 4)
+#### Example 5
 
-[//]: # (<div>)
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://tayjsl97.github.io/demos/tmm_music/m4.mid"></midi-visualizer>
+<midi-player src="https://tayjsl97.github.io/demos/tmm_music/m4.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+<br>
 
-[//]: # (<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/m3.mid"></midi-visualizer>)
 
-[//]: # (<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">)
+#### Example 6
 
-[//]: # (</midi-player>)
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://tayjsl97.github.io/demos/tmm_music/m5.mid"></midi-visualizer>
+<midi-player src="https://tayjsl97.github.io/demos/tmm_music/m5.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+<br>
 
-[//]: # (</div>)
 
-[//]: # (<br>)
+#### Example 7
 
-[//]: # ()
-[//]: # (#### Example 5)
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://tayjsl97.github.io/demos/tmm_music/m6.mid"></midi-visualizer>
+<midi-player src="https://tayjsl97.github.io/demos/tmm_music/m6.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+<br>
 
-[//]: # (<div>)
 
-[//]: # (<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/m4.mid"></midi-visualizer>)
+#### Example 8
 
-[//]: # (<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">)
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://tayjsl97.github.io/demos/tmm_music/m7.mid"></midi-visualizer>
+<midi-player src="https://tayjsl97.github.io/demos/tmm_music/m7.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+<br>
 
-[//]: # (</midi-player>)
 
-[//]: # (</div>)
+---
 
-[//]: # (<br>)
 
-[//]: # ()
-[//]: # (#### Example 6)
+# Generated chord
 
-[//]: # (<div>)
 
-[//]: # (<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/m5.mid"></midi-visualizer>)
+#### Example 1
 
-[//]: # (<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">)
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://tayjsl97.github.io/demos/tmm_music/c0.mid"></midi-visualizer>
+<midi-player src="https://tayjsl97.github.io/demos/tmm_music/c0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+<br>
 
-[//]: # (</midi-player>)
 
-[//]: # (</div>)
+#### Example 2
 
-[//]: # (<br>)
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://tayjsl97.github.io/demos/tmm_music/c1.mid"></midi-visualizer>
+<midi-player src="https://tayjsl97.github.io/demos/tmm_music/c1.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+<br>
 
-[//]: # ()
-[//]: # (#### Example 7)
 
-[//]: # (<div>)
+#### Example 3
 
-[//]: # (<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/m6.mid"></midi-visualizer>)
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://tayjsl97.github.io/demos/tmm_music/c2.mid"></midi-visualizer>
+<midi-player src="https://tayjsl97.github.io/demos/tmm_music/c2.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+<br>
 
-[//]: # (<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">)
 
-[//]: # (</midi-player>)
+#### Example 4
 
-[//]: # (</div>)
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://tayjsl97.github.io/demos/tmm_music/c3.mid"></midi-visualizer>
+<midi-player src="https://tayjsl97.github.io/demos/tmm_music/c3.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+<br>
 
-[//]: # (<br>)
 
-[//]: # ()
-[//]: # (#### Example 8)
+#### Example 5
 
-[//]: # (<div>)
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://tayjsl97.github.io/demos/tmm_music/c4.mid"></midi-visualizer>
+<midi-player src="https://tayjsl97.github.io/demos/tmm_music/c4.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+<br>
 
-[//]: # (<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/m7.mid"></midi-visualizer>)
 
-[//]: # (<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">)
+#### Example 6
 
-[//]: # (</midi-player>)
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://tayjsl97.github.io/demos/tmm_music/c5.mid"></midi-visualizer>
+<midi-player src="https://tayjsl97.github.io/demos/tmm_music/c5.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+<br>
 
-[//]: # (</div>)
 
-[//]: # (<br>)
+#### Example 7
 
-[//]: # ()
-[//]: # (---)
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://tayjsl97.github.io/demos/tmm_music/c6.mid"></midi-visualizer>
+<midi-player src="https://tayjsl97.github.io/demos/tmm_music/c6.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+<br>
 
-[//]: # ()
-[//]: # (# Generated chord)
 
-[//]: # ()
-[//]: # (#### Example 1)
+#### Example 8
 
-[//]: # (<div>)
-
-[//]: # (<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/c0.mid"></midi-visualizer>)
-
-[//]: # (<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">)
-
-[//]: # (</midi-player>)
-
-[//]: # (</div>)
-
-[//]: # (<br>)
-
-[//]: # ()
-[//]: # (#### Example 2)
-
-[//]: # (<div>)
-
-[//]: # (<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/c1.mid"></midi-visualizer>)
-
-[//]: # (<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">)
-
-[//]: # (</midi-player>)
-
-[//]: # (</div>)
-
-[//]: # (<br>)
-
-[//]: # ()
-[//]: # (#### Example 3)
-
-[//]: # (<div>)
-
-[//]: # (<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/c2.mid"></midi-visualizer>)
-
-[//]: # (<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">)
-
-[//]: # (</midi-player>)
-
-[//]: # (</div>)
-
-[//]: # (<br>)
-
-[//]: # ()
-[//]: # (#### Example 4)
-
-[//]: # (<div>)
-
-[//]: # (<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/c3.mid"></midi-visualizer>)
-
-[//]: # (<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">)
-
-[//]: # (</midi-player>)
-
-[//]: # (</div>)
-
-[//]: # (<br>)
-
-[//]: # ()
-[//]: # (#### Example 5)
-
-[//]: # (<div>)
-
-[//]: # (<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/c4.mid"></midi-visualizer>)
-
-[//]: # (<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">)
-
-[//]: # (</midi-player>)
-
-[//]: # (</div>)
-
-[//]: # (<br>)
-
-[//]: # ()
-[//]: # (#### Example 6)
-
-[//]: # (<div>)
-
-[//]: # (<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/c5.mid"></midi-visualizer>)
-
-[//]: # (<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">)
-
-[//]: # (</midi-player>)
-
-[//]: # (</div>)
-
-[//]: # (<br>)
-
-[//]: # ()
-[//]: # (#### Example 7)
-
-[//]: # (<div>)
-
-[//]: # (<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/c6.mid"></midi-visualizer>)
-
-[//]: # (<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">)
-
-[//]: # (</midi-player>)
-
-[//]: # (</div>)
-
-[//]: # (<br>)
-
-[//]: # ()
-[//]: # (#### Example 8)
-
-[//]: # (<div>)
-
-[//]: # (<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/c7.mid"></midi-visualizer>)
-
-[//]: # (<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">)
-
-[//]: # (</midi-player>)
-
-[//]: # (</div>)
-
-[//]: # (<br>)
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://tayjsl97.github.io/demos/tmm_music/c7.mid"></midi-visualizer>
+<midi-player src="https://tayjsl97.github.io/demos/tmm_music/c7.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+<br>
 
 [//]: # (<div>)
 
