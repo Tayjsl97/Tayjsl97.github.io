@@ -1,4 +1,115 @@
 
+# Generated melody
+#### Example 1
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/0.mid"></midi-visualizer>
+<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+
+#### Example 2
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/0.mid"></midi-visualizer>
+<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+
+#### Example 3
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/0.mid"></midi-visualizer>
+<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+
+#### Example 4
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/0.mid"></midi-visualizer>
+<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+
+#### Example 5
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/0.mid"></midi-visualizer>
+<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+
+#### Example 6
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/0.mid"></midi-visualizer>
+<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+
+#### Example 7
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/0.mid"></midi-visualizer>
+<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+
+#### Example 8
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/0.mid"></midi-visualizer>
+<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+
+---
+
+# Generated chord
+
+#### Example 1
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/0.mid"></midi-visualizer>
+<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+
+#### Example 2
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/0.mid"></midi-visualizer>
+<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+
+#### Example 3
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/0.mid"></midi-visualizer>
+<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+
+#### Example 4
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/0.mid"></midi-visualizer>
+<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+
+#### Example 5
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/0.mid"></midi-visualizer>
+<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+
+#### Example 6
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/0.mid"></midi-visualizer>
+<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+
+#### Example 7
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/0.mid"></midi-visualizer>
+<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+
+#### Example 8
 <div>
 <midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/0.mid"></midi-visualizer>
 <midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
