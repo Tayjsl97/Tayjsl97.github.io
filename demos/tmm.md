@@ -8,19 +8,19 @@
 </div>
 <br>
 
-[//]: # (#### Example 2)
+#### Example 2
 
-[//]: # (<div>)
+<div>
 
-[//]: # (<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/m1.mid"></midi-visualizer>)
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/test.mid"></midi-visualizer>
 
-[//]: # (<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">)
+<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
 
-[//]: # (</midi-player>)
+</midi-player>
 
-[//]: # (</div>)
+</div>
 
-[//]: # (<br>)
+<br>
 
 [//]: # ()
 [//]: # (#### Example 3)
