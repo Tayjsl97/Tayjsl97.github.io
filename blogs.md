@@ -1,13 +1,11 @@
----
-layout: page
-permalink: /demos/index.html
-title: Demos
----
-
 ## Demos
 
 ### 2023  
+
+---
+
 A Survey on Deep Learning for Symbolic Music Generation: Representations, Algorithms, Evaluations, and Challenges<br>
+<br>
 
 <img src="/images/demo0.png" class="demopic0" width="700" height="200"/><br>
 <br>
