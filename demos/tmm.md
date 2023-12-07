@@ -165,6 +165,9 @@
 </div>
 <br>
 
+---
+Thanks [html-midi-player](https://cifkao.github.io/html-midi-player/) for the excellent MIDI visualization!
+
 [//]: # (<div>)
 
 [//]: # (<midi-visualizer)
