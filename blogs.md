@@ -6,7 +6,16 @@ title: Demos
 
 ## Demos
 
-### 2023     
+### 2023  
+A Survey on Deep Learning for Symbolic Music Generation: Representations, Algorithms, Evaluations, and Challenges
+<img src="/images/demo0.png" class="demopic" width="425" height="194"/>
+
+- This paper attempts to provide a task-oriented survey of symbolic music generation based on deep learning techniques, covering most of the currently popular music generation tasks. The distinct models under the same task are set forth briefly and strung according to their motivations, basically in chronological order. 
+- Accepted by the **ACM Computing Surveys**.
+- [**Paper link**](https://dl.acm.org/doi/10.1145/3597493)
+
+---
+
 <img src="/images/demo1.jpg" class="demopic" width="240" height="320"/>
 
 - **EmoMusicTV** is a transformer-based VAE that contains a hierarchical latent variable structure to model holistic properties of the music segments and short-term variations within bars. The piece- and bar-level emotional labels are embedded in their corresponding latent spaces to guide music generation. EmoMusicTV can adapt to multiple music generation tasks and performs well, e.g., melody harmonization, melody generation given harmony, and lead sheet generation.
