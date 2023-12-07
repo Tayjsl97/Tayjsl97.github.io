@@ -4,7 +4,7 @@
 #### Example 0
 <div>
 <midi-visualizer type="piano-roll" id="mainVisualizer" src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid"></midi-visualizer>
-<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+<midi-player src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
 </midi-player>
 </div>
 <br>
@@ -21,7 +21,7 @@
 
 <div>
 <midi-visualizer type="piano-roll" id="mainVisualizer" src="https://tayjsl97.github.io/demos/tmm_music/m1.mid"></midi-visualizer>
-<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+<midi-player src="https://tayjsl97.github.io/demos/tmm_music/m1.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
 </midi-player>
 </div>
 <br>
