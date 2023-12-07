@@ -11,8 +11,8 @@
 
 #### Example 1
 <div>
-<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/m0.mid"></midi-visualizer>
-<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://tayjsl97.github.io/demos/tmm_music/m0.mid"></midi-visualizer>
+<midi-player src="https://tayjsl97.github.io/demos/tmm_music/m0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
 </midi-player>
 </div>
 <br>
