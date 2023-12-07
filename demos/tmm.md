@@ -1,5 +1,14 @@
 
 # Generated melody
+
+#### Example 0
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid"></midi-visualizer>
+<midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+<br>
+
 #### Example 1
 <div>
 <midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/m0.mid"></midi-visualizer>
@@ -11,16 +20,12 @@
 #### Example 2
 
 <div>
-
-<midi-visualizer type="piano-roll" id="mainVisualizer" src="tmm_music/test.mid"></midi-visualizer>
-
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://tayjsl97.github.io/demos/tmm_music/m1.mid"></midi-visualizer>
 <midi-player src="tmm_music/0.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
-
 </midi-player>
-
 </div>
-
 <br>
+
 
 [//]: # ()
 [//]: # (#### Example 3)
