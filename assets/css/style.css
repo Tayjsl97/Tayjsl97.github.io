@@ -1781,7 +1781,7 @@ h1.project-name {
 
 #myPlayer1 {
   display: block;
-  width: inherit;
+  width: 20em;
   margin: 0; }
 
 #myPlayer1::part(control-panel) {
@@ -1817,7 +1817,7 @@ h1.project-name {
           stroke: black;
           stroke-width: 0.75;
           stroke-opacity: 0.75; }
-      #myVisualize2 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+      #myVisualizer2 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
         fill: #0062cc; }
       #myVisualizer2 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
         fill: #00b680; }
