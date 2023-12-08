@@ -1748,7 +1748,7 @@ h1.project-name {
 
 #myPlayer1, #myVisualizer1 {
   display: block;
-  width: 150px;
+  width: 10em;
   margin: 0; }
 
 #myVisualizer1 {
