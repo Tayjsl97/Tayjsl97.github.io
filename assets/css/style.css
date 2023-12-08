@@ -1746,9 +1746,14 @@ h1.project-name {
       #mainVisualizer15 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
-#myPlayer1, #myVisualizer1 {
+#myVisualizer1 {
   display: block;
   width: 15em;
+  margin: 0; }
+
+#myPlayer1 {
+  display: block;
+  width: inherit;
   margin: 0; }
 
 #myVisualizer1 {
