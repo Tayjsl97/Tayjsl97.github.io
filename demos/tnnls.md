@@ -377,8 +377,8 @@
         <td>
         <div style="width: 17em"></div>
         <div>
-        <midi-visualizer type="piano-roll" id="fcVisualizer9" src="https://tayjsl97.github.io/demos/tnnls_music/9-吉-0333农事打令-安图县"></midi-visualizer>
-        <midi-player src="https://tayjsl97.github.io/demos/tnnls_music/9-吉-0333农事打令-安图县" sound-font visualizer="#fcVisualizer9" id="myPlayer1">
+        <midi-visualizer type="piano-roll" id="fcVisualizer9" src="https://tayjsl97.github.io/demos/tnnls_music/9-吉-0333农事打令-安图县.mid"></midi-visualizer>
+        <midi-player src="https://tayjsl97.github.io/demos/tnnls_music/9-吉-0333农事打令-安图县.mid" sound-font visualizer="#fcVisualizer9" id="myPlayer1">
         </midi-player>
         </div>
         </td> 

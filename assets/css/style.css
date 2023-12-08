@@ -2035,7 +2035,7 @@ h1.project-name {
       margin: 2px; }
       #myVisualizer41 .piano-roll-visualizer svg rect.note {
         opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
-        #myVisualizer21 .piano-roll-visualizer svg rect.note.active {
+        #myVisualizer41 .piano-roll-visualizer svg rect.note.active {
           opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
           stroke: black;
           stroke-width: 0.75;

@@ -2,38 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="upload">
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/1_BLSTM_reelsu-z4_5.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/1_CLSTM_reelsu-z4_5.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/1_DQN_reelsu-z4_5.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/1_冀-0729探清水河-深泽县.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/2_BLSTM_xmas4_5.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/2_CLSTM_xmas4_5.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/2_DQN_xmas4_5.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/2_甘-0790青丝线挽了个抓鱼的网-广河县.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/3_BLSTM_waltzes2_5.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/3_CLSTM_waltzes2_5.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/3_DQN_waltzes2_5.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/3_桂-0577鸭嘴哪有鸡嘴尖-全州县.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/4_BLSTM_slip2_5.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/4_CLSTM_slip2_5.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/4_DQN_slip2_5.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/4_黑-1101-马夫打令-齐齐哈尔市.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/5_BLSTM_Yesterday Once More_5.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/5_CLSTM_Yesterday Once More_5.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/5_DQN_Yesterday Once More_5.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/5_沪-0521紫竹调（一）-南汇县.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/6_BLSTM_You Light Up My Life_0.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/6_CLSTM_You Light Up My Life_0.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/6_DQN_You Light Up My Life_0.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/6_鲁-497-打秋千-青州市.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/7_BLSTM_Vilia from 'The Merry Widow'_0.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/7_CLSTM_Vilia from 'The Merry Widow'_0.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/7_DQN_Vilia from 'The Merry Widow'_0.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/7_苏-0800鲜花调（一）-扬州市.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/8_陕-0344五更鸟-洛川县.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/tnnls_music/9-吉-0333农事打令-安图县.mid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demos/tnnls.md" beforeDir="false" afterPath="$PROJECT_DIR$/demos/tnnls.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +46,7 @@
       <workItem from="1701921108102" duration="268000" />
       <workItem from="1701921381579" duration="732000" />
       <workItem from="1701922128908" duration="112000" />
-      <workItem from="1701922244646" duration="32807000" />
+      <workItem from="1701922244646" duration="33303000" />
     </task>
     <task id="LOCAL-00001" summary="upload">
       <created>1701922147904</created>
@@ -416,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702034378958</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="upload">
+      <created>1702037907943</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1702037907943</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
