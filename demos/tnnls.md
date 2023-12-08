@@ -3,6 +3,37 @@
 
 #### Example 1
 
+<table>
+    <tr>
+        <td>BSLTM</td> 
+        <td>CLSTM</td> 
+        <td>DQN</td> 
+   </tr>
+    <tr>
+  		<td>
+        <div>
+        <midi-visualizer type="piano-roll" id="myVisualizer1" src="https://tayjsl97.github.io/demos/tmm_music/m0.mid"></midi-visualizer>
+        <midi-player src="https://tayjsl97.github.io/demos/tmm_music/m0.mid" sound-font visualizer="#myVisualizer1" id="myPlayer1">
+        </midi-player>
+        </div>
+        </td> 
+        <td>
+        <div>
+        <midi-visualizer type="piano-roll" id="myVisualizer1" src="https://tayjsl97.github.io/demos/tmm_music/m0.mid"></midi-visualizer>
+        <midi-player src="https://tayjsl97.github.io/demos/tmm_music/m0.mid" sound-font visualizer="#myVisualizer1" id="myPlayer1">
+        </midi-player>
+        </div>
+        </td> 
+        <td>
+        <div>
+        <midi-visualizer type="piano-roll" id="myVisualizer1" src="https://tayjsl97.github.io/demos/tmm_music/m0.mid"></midi-visualizer>
+        <midi-player src="https://tayjsl97.github.io/demos/tmm_music/m0.mid" sound-font visualizer="#myVisualizer1" id="myPlayer1">
+        </midi-player>
+        </div>
+        </td> 
+    </tr>
+</table>
+
 
 - BLSTM<br>
 <div>

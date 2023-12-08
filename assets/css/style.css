@@ -1251,7 +1251,7 @@ h1.project-name {
   background: linear-gradient(#fefefe, #e9e9e9); }
 
 
-#mainPlayer1, #mainVisualizer1 {
+#mainVisualizer1 {
   display: block;
   width: inherit;
   margin: 0; }
@@ -1284,7 +1284,7 @@ h1.project-name {
       #mainVisualizer1 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
-#mainPlayer2, #mainVisualizer2 {
+#mainVisualizer2 {
   display: block;
   width: inherit;
   margin: 0; }
@@ -1317,7 +1317,7 @@ h1.project-name {
       #mainVisualizer2 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
-#mainPlayer3, #mainVisualizer3 {
+#mainVisualizer3 {
   display: block;
   width: inherit;
   margin: 0; }
@@ -1350,7 +1350,7 @@ h1.project-name {
       #mainVisualizer3 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
-#mainPlayer4, #mainVisualizer4 {
+#mainVisualizer4 {
   display: block;
   width: inherit;
   margin: 0; }
@@ -1383,7 +1383,7 @@ h1.project-name {
       #mainVisualizer4 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
-#mainPlayer5, #mainVisualizer5 {
+#mainVisualizer5 {
   display: block;
   width: inherit;
   margin: 0; }
@@ -1416,7 +1416,7 @@ h1.project-name {
       #mainVisualizer5 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
-#mainPlayer6, #mainVisualizer6 {
+#mainVisualizer6 {
   display: block;
   width: inherit;
   margin: 0; }
@@ -1449,7 +1449,7 @@ h1.project-name {
       #mainVisualizer6 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
-#mainPlayer7, #mainVisualizer7 {
+#mainVisualizer7 {
   display: block;
   width: inherit;
   margin: 0; }
@@ -1482,7 +1482,7 @@ h1.project-name {
       #mainVisualizer7 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
-#mainPlayer8, #mainVisualizer8 {
+#mainVisualizer8 {
   display: block;
   width: inherit;
   margin: 0; }
@@ -1515,7 +1515,7 @@ h1.project-name {
       #mainVisualizer8 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
-#mainPlayer9, #mainVisualizer9 {
+#mainVisualizer9 {
   display: block;
   width: inherit;
   margin: 0; }
@@ -1548,7 +1548,7 @@ h1.project-name {
       #mainVisualizer9 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
-#mainPlayer10, #mainVisualizer10 {
+#mainVisualizer10 {
   display: block;
   width: inherit;
   margin: 0; }
@@ -1581,7 +1581,7 @@ h1.project-name {
       #mainVisualizer10 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
-#mainPlayer11, #mainVisualizer11 {
+#mainVisualizer11 {
   display: block;
   width: inherit;
   margin: 0; }
@@ -1614,7 +1614,7 @@ h1.project-name {
       #mainVisualizer11 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
-#mainPlayer12, #mainVisualizer12 {
+#mainVisualizer12 {
   display: block;
   width: inherit;
   margin: 0; }
@@ -1647,7 +1647,7 @@ h1.project-name {
       #mainVisualizer12 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
-#mainPlayer13, #mainVisualizer13 {
+#mainVisualizer13 {
   display: block;
   width: inherit;
   margin: 0; }
@@ -1680,7 +1680,7 @@ h1.project-name {
       #mainVisualizer13 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
-#mainPlayer14, #mainVisualizer14 {
+#mainVisualizer14 {
   display: block;
   width: inherit;
   margin: 0; }
@@ -1713,7 +1713,7 @@ h1.project-name {
       #mainVisualizer14 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
-#mainPlayer15, #mainVisualizer15 {
+#mainVisualizer15 {
   display: block;
   width: inherit;
   margin: 0; }
@@ -1748,7 +1748,7 @@ h1.project-name {
 
 #myPlayer1, #myVisualizer1 {
   display: block;
-  width: 10em;
+  width: 15em;
   margin: 0; }
 
 #myVisualizer1 {
@@ -1778,3 +1778,9 @@ h1.project-name {
         fill: #4f00cf; }
       #myVisualizer1 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
+
+/*#mainPlayer::part(control-panel) {*/
+/*  border-radius: 0 0 10px 10px;*/
+/*  border: 1px solid #e9e9e9;*/
+/*  border-top: none;*/
+/*  background: linear-gradient(#fefefe, #e9e9e9); }*/
