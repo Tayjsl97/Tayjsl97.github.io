@@ -1795,6 +1795,11 @@ h1.project-name {
   width: 15em;
   margin: 0; }
 
+#myPlayer2 {
+  display: block;
+  width: inherit;
+  margin: 0; }
+
 #myVisualizer2 {
   border-radius: 10px 10px 0 0;
   border: 1px solid #e9e9e9;
@@ -1823,10 +1828,6 @@ h1.project-name {
       #myVisualizer2 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
-#myPlayer2 {
-  display: block;
-  width: 20em;
-  margin: 0; }
 
 #myPlayer2::part(control-panel) {
   border-radius: 0 0 10px 10px;
