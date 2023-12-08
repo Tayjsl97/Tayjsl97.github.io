@@ -1746,37 +1746,37 @@ h1.project-name {
       #mainVisualizer15 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
-#myVisualizer1 {
+#myVisualizer11 {
   display: block;
   width: 15em;
   margin: 0; }
 
-#myVisualizer1 {
+#myVisualizer11 {
   border-radius: 10px 10px 0 0;
   border: 1px solid #e9e9e9;
   border-bottom: none;
   background: #fefefe; }
-  #myVisualizer1 .piano-roll-visualizer {
+  #myVisualizer11 .piano-roll-visualizer {
     width: inherit;
     overflow: auto; }
-    #myVisualizer1 .piano-roll-visualizer svg {
+    #myVisualizer11 .piano-roll-visualizer svg {
       margin: 2px; }
-      #myVisualizer1 .piano-roll-visualizer svg rect.note {
+      #myVisualizer11 .piano-roll-visualizer svg rect.note {
         opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
-        #myVisualizer1 .piano-roll-visualizer svg rect.note.active {
+        #myVisualizer11 .piano-roll-visualizer svg rect.note.active {
           opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
           stroke: black;
           stroke-width: 0.75;
           stroke-opacity: 0.75; }
-      #myVisualizer1 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+      #myVisualizer11 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
         fill: #0062cc; }
-      #myVisualizer1 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+      #myVisualizer11 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
         fill: #00b680; }
-      #myVisualizer1 .piano-roll-visualizer svg rect.note[data-instrument="2"] {
+      #myVisualizer11 .piano-roll-visualizer svg rect.note[data-instrument="2"] {
         fill: #de0015; }
-      #myVisualizer1 .piano-roll-visualizer svg rect.note[data-instrument="3"] {
+      #myVisualizer11 .piano-roll-visualizer svg rect.note[data-instrument="3"] {
         fill: #4f00cf; }
-      #myVisualizer1 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
+      #myVisualizer11 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
 #myPlayer1 {
@@ -1790,36 +1790,797 @@ h1.project-name {
   border-top: none;
   background: linear-gradient(#fefefe, #e9e9e9); }
 
-#myVisualizer2 {
+#myVisualizer12 {
   display: block;
   width: 15em;
   margin: 0; }
 
-#myVisualizer2 {
+#myVisualizer12 {
   border-radius: 10px 10px 0 0;
   border: 1px solid #e9e9e9;
   border-bottom: none;
   background: #fefefe; }
-  #myVisualizer2 .piano-roll-visualizer {
+  #myVisualizer12 .piano-roll-visualizer {
     width: inherit;
     overflow: auto; }
-    #myVisualizer2 .piano-roll-visualizer svg {
+    #myVisualizer12 .piano-roll-visualizer svg {
       margin: 2px; }
-      #myVisualizer2 .piano-roll-visualizer svg rect.note {
+      #myVisualizer12 .piano-roll-visualizer svg rect.note {
         opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
-        #myVisualizer2 .piano-roll-visualizer svg rect.note.active {
+        #myVisualizer12 .piano-roll-visualizer svg rect.note.active {
           opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
           stroke: black;
           stroke-width: 0.75;
           stroke-opacity: 0.75; }
-      #myVisualizer2 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+      #myVisualizer12 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
         fill: #0062cc; }
-      #myVisualizer2 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+      #myVisualizer12 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
         fill: #00b680; }
-      #myVisualizer2 .piano-roll-visualizer svg rect.note[data-instrument="2"] {
+      #myVisualizer12 .piano-roll-visualizer svg rect.note[data-instrument="2"] {
         fill: #de0015; }
-      #myVisualizer2 .piano-roll-visualizer svg rect.note[data-instrument="3"] {
+      #myVisualizer12 .piano-roll-visualizer svg rect.note[data-instrument="3"] {
         fill: #4f00cf; }
-      #myVisualizer2 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
+      #myVisualizer12 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
+#myVisualizer13 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#myVisualizer13 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #myVisualizer13 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #myVisualizer13 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #myVisualizer13 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #myVisualizer13 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #myVisualizer13 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #0062cc; }
+      #myVisualizer13 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #00b680; }
+      #myVisualizer13 .piano-roll-visualizer svg rect.note[data-instrument="2"] {
+        fill: #de0015; }
+      #myVisualizer13 .piano-roll-visualizer svg rect.note[data-instrument="3"] {
+        fill: #4f00cf; }
+      #myVisualizer13 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
+        fill: #d39e00; }
+
+#myVisualizer21 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#myVisualizer21 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #myVisualizer21 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #myVisualizer21 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #myVisualizer21 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #myVisualizer21 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #myVisualizer21 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #de0015; }
+      #myVisualizer21 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #d39e00; }
+
+#myVisualizer22 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#myVisualizer22 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #myVisualizer22 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #myVisualizer22 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #myVisualizer22 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #myVisualizer22 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #myVisualizer22 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #de0015; }
+      #myVisualizer22 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #d39e00; }
+
+#myVisualizer23 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#myVisualizer23 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #myVisualizer23 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #myVisualizer23 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #myVisualizer23 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #myVisualizer23 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #myVisualizer23 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #de0015; }
+      #myVisualizer23 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #d39e00; }
+
+#myVisualizer31 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#myVisualizer31 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #myVisualizer31 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #myVisualizer31 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #myVisualizer31 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #myVisualizer31 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #myVisualizer31 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #0062cc; }
+      #myVisualizer31 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #00b680; }
+
+#myVisualizer32 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#myVisualizer32 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #myVisualizer32 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #myVisualizer32 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #myVisualizer32 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #myVisualizer32 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #myVisualizer32 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #0062cc; }
+      #myVisualizer32 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #00b680; }
+
+#myVisualizer33 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#myVisualizer33 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #myVisualizer33 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #myVisualizer33 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #myVisualizer33 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #myVisualizer33 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #myVisualizer33 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #0062cc; }
+      #myVisualizer33 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #00b680; }
+
+#myVisualizer41 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#myVisualizer41 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #myVisualizer41 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #myVisualizer41 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #myVisualizer41 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #myVisualizer21 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #myVisualizer41 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #de0015; }
+      #myVisualizer41 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #d39e00; }
+
+#myVisualizer42 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#myVisualizer42 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #myVisualizer42 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #myVisualizer42 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #myVisualizer42 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #myVisualizer42 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #myVisualizer42 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #de0015; }
+      #myVisualizer42 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #d39e00; }
+
+#myVisualizer43 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#myVisualizer43 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #myVisualizer43 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #myVisualizer43 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #myVisualizer43 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #myVisualizer43 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #myVisualizer43 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #de0015; }
+      #myVisualizer43 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #d39e00; }
+
+#myVisualizer51 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#myVisualizer51 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #myVisualizer51 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #myVisualizer51 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #myVisualizer51 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #myVisualizer51 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #myVisualizer51 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #0062cc; }
+      #myVisualizer51 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #00b680; }
+
+#myVisualizer52 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#myVisualizer52 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #myVisualizer52 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #myVisualizer52 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #myVisualizer52 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #myVisualizer52 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #myVisualizer52 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #0062cc; }
+      #myVisualizer52 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #00b680; }
+
+#myVisualizer53 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#myVisualizer53 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #myVisualizer53 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #myVisualizer53 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #myVisualizer53 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #myVisualizer53 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #myVisualizer53 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #0062cc; }
+      #myVisualizer53 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #00b680; }
+
+#myVisualizer61 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#myVisualizer61 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #myVisualizer61 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #myVisualizer61 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #myVisualizer61 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #myVisualizer61 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #myVisualizer61 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #de0015; }
+      #myVisualizer61 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #d39e00; }
+
+#myVisualizer62 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#myVisualizer62 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #myVisualizer62 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #myVisualizer62 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #myVisualizer62 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #myVisualizer62 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #myVisualizer62 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #de0015; }
+      #myVisualizer62 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #d39e00; }
+
+#myVisualizer63 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#myVisualizer63 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #myVisualizer63 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #myVisualizer63 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #myVisualizer63 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #myVisualizer63 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #myVisualizer63 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #de0015; }
+      #myVisualizer63 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #d39e00; }
+
+#myVisualizer71 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#myVisualizer71 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #myVisualizer71 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #myVisualizer71 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #myVisualizer71 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #myVisualizer71 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #myVisualizer71 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #0062cc; }
+      #myVisualizer71 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #00b680; }
+
+#myVisualizer72 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#myVisualizer72 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #myVisualizer72 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #myVisualizer72 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #myVisualizer72 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #myVisualizer72 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #myVisualizer72 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #0062cc; }
+      #myVisualizer72 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #00b680; }
+
+#myVisualizer73 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#myVisualizer73 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #myVisualizer73 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #myVisualizer73 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #myVisualizer73 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #myVisualizer73 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #myVisualizer73 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #0062cc; }
+      #myVisualizer73 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #00b680; }
+
+#fcVisualizer1 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#fcVisualizer1 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #fcVisualizer1 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #fcVisualizer1 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #fcVisualizer1 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #fcVisualizer1 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #fcVisualizer1 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #de0015; }
+      #fcVisualizer1 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #d39e00; }
+
+#fcVisualizer2 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#fcVisualizer2 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #fcVisualizer2 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #fcVisualizer2 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #fcVisualizer2 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #fcVisualizer2 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #fcVisualizer2 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #de0015; }
+      #fcVisualizer2 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #d39e00; }
+
+#fcVisualizer3 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#fcVisualizer3 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #fcVisualizer3 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #fcVisualizer3 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #fcVisualizer3 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #fcVisualizer3 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #fcVisualizer3 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #de0015; }
+      #fcVisualizer3 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #d39e00; }
+
+#fcVisualizer4 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#fcVisualizer4 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #fcVisualizer4 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #fcVisualizer4 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #fcVisualizer4 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #fcVisualizer4 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #fcVisualizer4 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #0062cc; }
+      #fcVisualizer4 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #00b680; }
+
+#fcVisualizer5 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#fcVisualizer5 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #fcVisualizer5 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #fcVisualizer5 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #fcVisualizer5 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #fcVisualizer5 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #fcVisualizer5 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #0062cc; }
+      #fcVisualizer5 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #00b680; }
+
+#fcVisualizer6 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#fcVisualizer6 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #fcVisualizer6 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #fcVisualizer6 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #fcVisualizer6 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #fcVisualizer6 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #fcVisualizer6 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #0062cc; }
+      #fcVisualizer6 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #00b680; }
+
+#fcVisualizer7 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#fcVisualizer7 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #fcVisualizer7 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #fcVisualizer7 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #fcVisualizer7 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #fcVisualizer7 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #fcVisualizer7 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #de0015; }
+      #fcVisualizer7 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #d39e00; }
+
+#fcVisualizer8 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#fcVisualizer8 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #fcVisualizer8 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #fcVisualizer8 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #fcVisualizer8 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #fcVisualizer8 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #fcVisualizer8 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #de0015; }
+      #fcVisualizer8 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #d39e00; }
+
+#fcVisualizer9 {
+  display: block;
+  width: 15em;
+  margin: 0; }
+
+#fcVisualizer9 {
+  border-radius: 10px 10px 0 0;
+  border: 1px solid #e9e9e9;
+  border-bottom: none;
+  background: #fefefe; }
+  #fcVisualizer9 .piano-roll-visualizer {
+    width: inherit;
+    overflow: auto; }
+    #fcVisualizer9 .piano-roll-visualizer svg {
+      margin: 2px; }
+      #fcVisualizer9 .piano-roll-visualizer svg rect.note {
+        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75); }
+        #fcVisualizer9 .piano-roll-visualizer svg rect.note.active {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+          stroke: black;
+          stroke-width: 0.75;
+          stroke-opacity: 0.75; }
+      #fcVisualizer9 .piano-roll-visualizer svg rect.note[data-instrument="0"] {
+        fill: #de0015; }
+      #fcVisualizer9 .piano-roll-visualizer svg rect.note[data-instrument="1"] {
+        fill: #d39e00; }
