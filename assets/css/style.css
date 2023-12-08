@@ -1781,7 +1781,7 @@ h1.project-name {
 
 #myPlayer1 {
   display: block;
-  width: 19.5em;
+  width: 19.3em;
   margin: 0; }
 
 #myPlayer1::part(control-panel) {
