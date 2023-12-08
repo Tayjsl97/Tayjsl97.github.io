@@ -1781,7 +1781,7 @@ h1.project-name {
 
 #myPlayer1 {
   display: block;
-  width: 20em;
+  width: 19em;
   margin: 0; }
 
 #myPlayer1::part(control-panel) {
@@ -1793,11 +1793,6 @@ h1.project-name {
 #myVisualizer2 {
   display: block;
   width: 15em;
-  margin: 0; }
-
-#myPlayer2 {
-  display: block;
-  width: inherit;
   margin: 0; }
 
 #myVisualizer2 {
@@ -1828,9 +1823,3 @@ h1.project-name {
       #myVisualizer2 .piano-roll-visualizer svg rect.note[data-instrument="4"] {
         fill: #d39e00; }
 
-
-#myPlayer2::part(control-panel) {
-  border-radius: 0 0 10px 10px;
-  border: 1px solid #e9e9e9;
-  border-top: none;
-  background: linear-gradient(#fefefe, #e9e9e9); }
