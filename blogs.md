@@ -22,6 +22,15 @@ A Survey on Deep Learning for Symbolic Music Generation: Representations, Algori
 
 <img src="/images/demo1.jpg" class="demopic" width="240" height="320"/>
 
+- **RL-Chord** is a transformer-based VAE that contains a hierarchical latent variable structure to model holistic properties of the music segments and short-term variations within bars. The piece- and bar-level emotional labels are embedded in their corresponding latent spaces to guide music generation. EmoMusicTV can adapt to multiple music generation tasks and performs well, e.g., melody harmonization, melody generation given harmony, and lead sheet generation.
+- Accepted by the **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
+- [**Paper link**](https://ieeexplore.ieee.org/abstract/document/10063204), [**code repository**](https://github.com/Tayjsl97/RL-Chord), [**demo page**](https://Tayjsl97.github.io/demos/tnnls)
+<br>
+
+---
+
+<img src="/images/demo1.jpg" class="demopic" width="240" height="320"/>
+
 - **EmoMusicTV** is a transformer-based VAE that contains a hierarchical latent variable structure to model holistic properties of the music segments and short-term variations within bars. The piece- and bar-level emotional labels are embedded in their corresponding latent spaces to guide music generation. EmoMusicTV can adapt to multiple music generation tasks and performs well, e.g., melody harmonization, melody generation given harmony, and lead sheet generation.
 - Accepted by the **IEEE Transactions on Multimedia (TMM)**.
 - [**Paper link**](https://ieeexplore.ieee.org/abstract/document/10124351), [**code repository**](https://github.com/Tayjsl97/EmoMusicTV), [**demo page**](https://Tayjsl97.github.io/demos/tmm)
