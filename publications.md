@@ -9,6 +9,8 @@ Lastest Update: 27th Nov 2023&nbsp;
 
 ## Conference Paper
 
+- [MusER: Musical Element-Based Regularization for Generating Symbolic Music with Emotion]()<br>**Shulei Ji**, Xinyu Yang<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI)<br> Vancouver, Canada. February, 2024.
+
 - [Emotion-Conditioned Melody Harmonization with Hierarchical Variational Autoencoder](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Shulei Ji**, Xinyu Yang<br>The 2023 IEEE Conference on Systems, Man, and Cybernetics (IEEE SMC 2023)<br> Honolulu, Oahu, Hawaii, USA. Octorber, 2023.
 
 - [ADFF: Attention Based Deep Feature Fusion Approach for Music Emotion Recognition](https://www.isca-speech.org/archive/pdfs/interspeech_2022/huang22d_interspeech.pdf)<br>Zi Huang, **Shulei Ji**, Zhilan Hu, Chuangjian Cai, Jing Luo, Xinyu Yang<br>INTERSPEECH 2022<br>Incheon Songdo ConvensiA, Korea. September, 2022.
