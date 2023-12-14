@@ -179,9 +179,11 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         </div>
         </td> 
         <td>
+        <div style="width: 15em;text-align: center">
         <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/0-Q4_original.mp3">
         </audio>
+        </div>
         </td>
         <td>
         <div style="width: 7em;text-align: right">
@@ -189,9 +191,11 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         </div>
         </td>
         <td>
+        <div style="width: 15em;text-align: center">
         <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/0-Q4+Q1 velocity.mp3">
         </audio>
+        </div>
         </td>
     </tr>
     <tr>
@@ -202,9 +206,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
     </tr>
     <tr>
   		<td>
-        <div style="width: 6em">
-        Q4 original: 
-        </div> 
+        Q4 original:
         </td> 
         <td>
         <audio id="audio" controls="" preload="none">
@@ -212,14 +214,16 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         </audio>
         </td>
         <td>
-        <div style="width: 7em;text-align: right">
+        <div style="text-align: right">
         Q4+Q1 v: 
         </div>
         </td>
         <td>
+        <div style="width: 15em;text-align: center">
         <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/1-Q4+Q1 velocity.mp3">
         </audio>
+        </div>
         </td>
     </tr>
     <tr>
@@ -240,14 +244,16 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         </audio>
         </td>
         <td>
-        <div style="width: 7em;text-align: right">
+        <div style="text-align: right">
         Q4+Q1 v: 
         </div>
         </td>
         <td>
+        <div style="width: 15em;text-align: center">
         <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/2-Q4+Q1 velocity.mp3">
         </audio>
+        </div>
         </td>
     </tr>
 </table>
