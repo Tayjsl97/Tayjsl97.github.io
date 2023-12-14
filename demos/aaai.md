@@ -172,7 +172,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         <td><strong></strong></td> 
    </tr>
     <tr>
-  		<td>
+  		<td valign="middle">
         <div style="width: 25em"></div>
         <div>
         Q4 original: <audio id="audio" controls="" preload="none">
@@ -180,7 +180,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         </audio>
         </div>
         </td> 
-        <td>
+        <td valign="middle">
         <div style="width: 25em"></div>
         <div>
         Q4+Q1 v: <audio id="audio" controls="" preload="none">
@@ -194,7 +194,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         <td><strong></strong></td> 
    </tr>
     <tr>
-        <td>
+        <td valign="middle">
         <div style="width: 25em"></div>
         <div>
         Q4 original: <audio id="audio" controls="" preload="none">
@@ -202,7 +202,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         </audio>
         </div>
         </td> 
-        <td>
+        <td valign="middle">
         <div style="width: 25em"></div>
         <div>
         Q4+Q1 v: <audio id="audio" controls="" preload="none">
@@ -216,7 +216,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         <td><strong></strong></td> 
    </tr>
     <tr>
-        <td>
+        <td valign="middle">
         <div style="width: 25em"></div>
         <div>
         Q4 original: <audio id="audio" controls="" preload="none">
@@ -224,7 +224,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         </audio>
         </div>
         </td> 
-        <td>
+        <td valign="middle">
         <div style="width: 25em"></div>
         <div>
         Q4+Q1 v: <audio id="audio" controls="" preload="none">
