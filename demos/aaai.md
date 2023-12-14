@@ -2,7 +2,7 @@
 ## MusER: Musical Element-Based Regularization for Generating Symbolic Music with Emotion
 The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the literature, as shown below. Within this model, the two dimensions, namely arousal and valence, respectively indicate the level of autonomic activation and pleasantness. These two dimensions divide the A-V model into four quadrants, each corresponding to a specific class of emotions. We employ the four quadrants (4Q) as the emotion labels for generating emotional music.
 <br>
-<img src="img/VA_model.jpg" width="770" height="310" alt="model"/>
+<img src="https://tayjsl97.github.io/images/VA_model.jpg" width="770" height="310" alt="model"/>
 ### Generating music with different emotions (4Q).
 
 - Q1
