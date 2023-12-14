@@ -2,7 +2,7 @@
 ## MusER: Musical Element-Based Regularization for Generating Symbolic Music with Emotion
 The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the literature, as shown below. Within this model, the two dimensions, namely arousal and valence, respectively indicate the level of autonomic activation and pleasantness. These two dimensions divide the A-V model into four quadrants, each corresponding to a specific class of emotions. We employ the four quadrants (4Q) as the emotion labels for generating emotional music.
 <br>
-<img src="https://tayjsl97.github.io/images/VA_model.jpg" width="770" height="310" alt="model"/>
+<img src="https://tayjsl97.github.io/images/VA_model.jpg" width="300" height="150" alt="model"/>
 ### Generating music with different emotions (4Q).
 
 - Q1
@@ -168,8 +168,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
 <table>
     <tr>
         <td><strong>Example 1</strong></td> 
-        <td><strong>Example 2</strong></td> 
-        <td><strong>Example 3</strong></td> 
+        <td><strong></strong></td> 
    </tr>
     <tr>
   		<td>
@@ -177,29 +176,56 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         <div>
         Q4 original: <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/0-Q4_original.mp3">
-        </audio><br>
+        </audio>
+        </div>
+        </td> 
+        <td>
+        <div style="width: 17em"></div>
+        <div>
         Q4+Q1 v: <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/0-Q4+Q1 velocity.mp3">
         </audio>
         </div>
-        </td> 
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Example 2</strong></td> 
+        <td><strong></strong></td> 
+   </tr>
+    <tr>
         <td>
         <div style="width: 17em"></div>
         <div>
         Q4 original: <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/1-Q4_original.mp3">
-        </audio><br>
-        Q4+Q1 v: <audio id="audio" controls="" preload="none">
-            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/1-Q4+Q1 velocity.mp3">
         </audio>
         </div>
         </td> 
         <td>
         <div style="width: 17em"></div>
         <div>
+        Q4+Q1 v: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/1-Q4+Q1 velocity.mp3">
+        </audio>
+        </div>
+        </td> 
+    </tr>
+    <tr>
+        <td><strong>Example 3</strong></td> 
+        <td><strong></strong></td> 
+   </tr>
+    <tr>
+        <td>
+        <div style="width: 17em"></div>
+        <div>
         Q4 original: <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/2-Q4_original.mp3">
-        </audio><br>
+        </audio>
+        </div>
+        </td> 
+        <td>
+        <div style="width: 17em"></div>
+        <div>
         Q4+Q1 v: <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/2-Q4+Q1 velocity.mp3">
         </audio>
