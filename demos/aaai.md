@@ -165,73 +165,85 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
 
 - Case 1: Transfer velocity in Q1 to music in Q4 (Q4+Q1 v)
 
-<div style="text-align: left">
 <table>
+    <div style="text-align: left">
     <tr>
         <td><strong>Example 1</strong></td> 
-        <td><strong></strong></td> 
-   </tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
     <tr>
-  		<td style="height:20px; line-height:22px;">
-        <div style="width: 25em"></div>
-        <div>
-        Q4 original: <audio id="audio" controls="" preload="none">
+  		<td>
+        <div style="width: 6em;text-align: right"></div>
+        Q4 original: 
+        </td> 
+        <td>
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/0-Q4_original.mp3">
         </audio>
-        </div>
-        </td> 
-        <td style="height:20px; line-height:22px;">
-        <div style="width: 25em"></div>
-        <div>
-        Q4+Q1 v: <audio id="audio" controls="" preload="none">
+        </td>
+        <td>
+        <div style="width: 5em"></div>
+        Q4+Q1 v: 
+        </td>
+        <td>
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/0-Q4+Q1 velocity.mp3">
         </audio>
-        </div>
         </td>
     </tr>
     <tr>
         <td><strong>Example 2</strong></td> 
-        <td><strong></strong></td> 
-   </tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
     <tr>
-        <td style="height:50px; line-height:22px;">
-        <div style="width: 25em"></div>
-        <div>
-        Q4 original: <audio id="audio" controls="" preload="none">
+  		<td>
+        <div style="width: 6em"></div>
+        Q4 original: 
+        </td> 
+        <td>
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/1-Q4_original.mp3">
         </audio>
-        </div>
-        </td> 
-        <td style="display:table-cell; vertical-align:middle">
-        <div style="width: 25em"></div>
-        <div>
-        Q4+Q1 v: <audio id="audio" controls="" preload="none">
+        </td>
+        <td>
+        <div style="width: 5em"></div>
+        Q4+Q1 v: 
+        </td>
+        <td>
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/1-Q4+Q1 velocity.mp3">
         </audio>
-        </div>
-        </td> 
+        </td>
     </tr>
     <tr>
         <td><strong>Example 3</strong></td> 
-        <td><strong></strong></td> 
-   </tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
     <tr>
-        <td style="height:100px; line-height:22px;">
-        <div style="width: 25em"></div>
-        <div>
-        Q4 original: <audio id="audio" controls="" preload="none">
+  		<td>
+        <div style="width: 6em"></div>
+        Q4 original: 
+        </td> 
+        <td>
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/2-Q4_original.mp3">
         </audio>
-        </div>
-        </td> 
-        <td style="height:100px; line-height:22px;">
-        <div style="width: 25em"></div>
-        <div>
-        Q4+Q1 v: <audio id="audio" controls="" preload="none">
+        </td>
+        <td>
+        <div style="width: 5em"></div>
+        Q4+Q1 v: 
+        </td>
+        <td>
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/2-Q4+Q1 velocity.mp3">
         </audio>
-        </div>
-        </td> 
+        </td>
     </tr>
 </table>
 </div>
