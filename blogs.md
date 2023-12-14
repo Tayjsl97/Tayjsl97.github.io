@@ -20,7 +20,7 @@ A Survey on Deep Learning for Symbolic Music Generation: Representations, Algori
 
 ---
 
-<div align="center"><img width="500" height="200" src="/images/MusER.png"/></div>
+<div align="center"><img width="800" height="300" src="/images/MusER.png"/></div>
 
 - **MusER** is a novel VQ-VAE-based model for generating symbolic music with emotion, which employs musical element-based regularization in the latent space to disentangle distinct musical elements, investigate their roles in distinguishing emotions, and further manipulate elements to alter musical emotions.
 - Accepted by the **AAAI 2024**.
