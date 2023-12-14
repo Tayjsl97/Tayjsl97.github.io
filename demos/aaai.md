@@ -4,6 +4,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
 <br>
 <br>
 <img src="https://tayjsl97.github.io/images/VA_model.jpg" width="300" height="150" alt="model"/>
+<br>
 
 <b><font size=5>Generating music with different emotions (4Q)</font></b>
 
@@ -363,189 +364,397 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
 
 - Case 3: Transfer tempo in Q1 to music in Q4 (Q4+Q1 t)
 
-<div style="text-align: left">
 <table>
     <tr>
         <td><strong>Example 1</strong></td> 
-        <td><strong>Example 2</strong></td> 
-        <td><strong>Example 3</strong></td> 
-   </tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
     <tr>
   		<td>
-        <div style="width: 17em"></div>
-        <div>
-        Q4 original: <audio id="audio" controls="" preload="none">
+        <div style="width: 6em">
+        Q4 original: 
+        </div>
+        </td> 
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/6-Q4_original.mp3">
-        </audio><br>
-        Q4+Q1 t: <audio id="audio" controls="" preload="none">
+        </audio>
+        </div>
+        </td>
+        <td>
+        <div style="width: 7em;text-align: right">
+        Q4+Q1 t: 
+        </div>
+        </td>
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/6-Q4+Q1 tempo.mp3">
         </audio>
         </div>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Example 2</strong></td> 
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+  		<td>
+        Q4 original:
         </td> 
         <td>
-        <div style="width: 17em"></div>
-        <div>
-        Q4 original: <audio id="audio" controls="" preload="none">
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/7-Q4_original.mp3">
-        </audio><br>
-        Q4+Q1 t: <audio id="audio" controls="" preload="none">
+        </audio>
+        </div>
+        </td>
+        <td>
+        <div style="text-align: right">
+        Q4+Q1 t: 
+        </div>
+        </td>
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/7-Q4+Q1 tempo.mp3">
         </audio>
         </div>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Example 3</strong></td> 
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+  		<td>
+        <div style="width: 6em">
+        Q4 original: 
+        </div>
         </td> 
         <td>
-        <div style="width: 17em"></div>
-        <div>
-        Q4 original: <audio id="audio" controls="" preload="none">
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/8-Q4_original.mp3">
-        </audio><br>
-        Q4+Q1 t: <audio id="audio" controls="" preload="none">
+        </audio>
+        </div>
+        </td>
+        <td>
+        <div style="text-align: right">
+        Q4+Q1 t: 
+        </div>
+        </td>
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/8-Q4+Q1 tempo.mp3">
         </audio>
         </div>
-        </td> 
+        </td>
     </tr>
 </table>
-</div>
 
 - Case 4: Transfer pitch in Q1 to music in Q3 (Q3+Q1 p)
 
-<div style="text-align: left">
 <table>
     <tr>
         <td><strong>Example 1</strong></td> 
-        <td><strong>Example 2</strong></td> 
-        <td><strong>Example 3</strong></td> 
-   </tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
     <tr>
   		<td>
-        <div style="width: 17em"></div>
-        <div>
-        Q3 original: <audio id="audio" controls="" preload="none">
+        <div style="width: 6em">
+        Q3 original: 
+        </div>
+        </td> 
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/9-Q3_original.mp3">
-        </audio><br>
-        Q3+Q1 p: <audio id="audio" controls="" preload="none">
+        </audio>
+        </div>
+        </td>
+        <td>
+        <div style="width: 7em;text-align: right">
+        Q3+Q1 p: 
+        </div>
+        </td>
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/9-Q3+Q1 pitch.mp3">
         </audio>
         </div>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Example 2</strong></td> 
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+  		<td>
+        Q3 original:
         </td> 
         <td>
-        <div style="width: 17em"></div>
-        <div>
-        Q3 original: <audio id="audio" controls="" preload="none">
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/10-Q3_original.mp3">
-        </audio><br>
-        Q3+Q1 p: <audio id="audio" controls="" preload="none">
+        </audio>
+        </div>
+        </td>
+        <td>
+        <div style="text-align: right">
+        Q3+Q1 p: 
+        </div>
+        </td>
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/10-Q3+Q1 pitch.mp3">
         </audio>
         </div>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Example 3</strong></td> 
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+  		<td>
+        <div style="width: 6em">
+        Q3 original: 
+        </div>
         </td> 
         <td>
-        <div style="width: 17em"></div>
-        <div>
-        Q3 original: <audio id="audio" controls="" preload="none">
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/11-Q3_original.mp3">
-        </audio><br>
-        Q3+Q1 p: <audio id="audio" controls="" preload="none">
+        </audio>
+        </div>
+        </td>
+        <td>
+        <div style="text-align: right">
+        Q3+Q1 p: 
+        </div>
+        </td>
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/11-Q3+Q1 pitch.mp3">
         </audio>
         </div>
-        </td> 
+        </td>
     </tr>
 </table>
-</div>
 
 - Case 5: Transfer duration in Q2 to music in Q3 (Q3+Q2 d)
 
-<div style="text-align: left">
 <table>
     <tr>
         <td><strong>Example 1</strong></td> 
-        <td><strong>Example 2</strong></td> 
-        <td><strong>Example 3</strong></td> 
-   </tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
     <tr>
   		<td>
-        <div style="width: 17em"></div>
-        <div>
-        Q3 original: <audio id="audio" controls="" preload="none">
+        <div style="width: 6em">
+        Q3 original: 
+        </div>
+        </td> 
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/12-Q3_original.mp3">
-        </audio><br>
-        Q3+Q2 d: <audio id="audio" controls="" preload="none">
+        </audio>
+        </div>
+        </td>
+        <td>
+        <div style="width: 7em;text-align: right">
+        Q3+Q2 d: 
+        </div>
+        </td>
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/12-Q3+Q2 duration.mp3">
         </audio>
         </div>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Example 2</strong></td> 
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+  		<td>
+        Q3 original:
         </td> 
         <td>
-        <div style="width: 17em"></div>
-        <div>
-        Q3 original: <audio id="audio" controls="" preload="none">
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/13-Q3_original.mp3">
-        </audio><br>
-        Q3+Q2 d: <audio id="audio" controls="" preload="none">
+        </audio>
+        </div>
+        </td>
+        <td>
+        <div style="text-align: right">
+        Q3+Q2 d: 
+        </div>
+        </td>
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/13-Q3+Q2 duration.mp3">
         </audio>
         </div>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Example 3</strong></td> 
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+  		<td>
+        <div style="width: 6em">
+        Q3 original: 
+        </div>
         </td> 
         <td>
-        <div style="width: 17em"></div>
-        <div>
-        Q3 original: <audio id="audio" controls="" preload="none">
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/14-Q3_original.mp3">
-        </audio><br>
-        Q3+Q2 d: <audio id="audio" controls="" preload="none">
+        </audio>
+        </div>
+        </td>
+        <td>
+        <div style="text-align: right">
+        Q3+Q2 d: 
+        </div>
+        </td>
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/14-Q3+Q2 duration.mp3">
         </audio>
         </div>
-        </td> 
+        </td>
     </tr>
 </table>
-</div>
 
 - Case 6: Transfer chord in Q2 to music in Q4 (Q4+Q2 c)
 
-<div style="text-align: left">
 <table>
     <tr>
         <td><strong>Example 1</strong></td> 
-        <td><strong>Example 2</strong></td> 
-        <td><strong>Example 3</strong></td> 
-   </tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
     <tr>
   		<td>
-        <div style="width: 17em"></div>
-        <div>
-        Q4 original: <audio id="audio" controls="" preload="none">
+        <div style="width: 6em">
+        Q4 original: 
+        </div>
+        </td> 
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/15-Q4_original.mp3">
-        </audio><br>
-        Q4+Q2 c: <audio id="audio" controls="" preload="none">
+        </audio>
+        </div>
+        </td>
+        <td>
+        <div style="width: 7em;text-align: right">
+        Q4+Q2 c: 
+        </div>
+        </td>
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/15-Q4+Q2 chord.mp3">
         </audio>
         </div>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Example 2</strong></td> 
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+  		<td>
+        Q4 original:
         </td> 
         <td>
-        <div style="width: 17em"></div>
-        <div>
-        Q4 original: <audio id="audio" controls="" preload="none">
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/16-Q4_original.mp3">
-        </audio><br>
-        Q4+Q2 c: <audio id="audio" controls="" preload="none">
+        </audio>
+        </div>
+        </td>
+        <td>
+        <div style="text-align: right">
+        Q4+Q2 c: 
+        </div>
+        </td>
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/16-Q4+Q2 chord.mp3">
         </audio>
         </div>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Example 3</strong></td> 
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+  		<td>
+        <div style="width: 6em">
+        Q4 original: 
+        </div>
         </td> 
         <td>
-        <div style="width: 17em"></div>
-        <div>
-        Q4 original: <audio id="audio" controls="" preload="none">
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/17-Q4_original.mp3">
-        </audio><br>
-        Q4+Q2 c: <audio id="audio" controls="" preload="none">
+        </audio>
+        </div>
+        </td>
+        <td>
+        <div style="text-align: right">
+        Q4+Q2 c: 
+        </div>
+        </td>
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/17-Q4+Q2 chord.mp3">
         </audio>
         </div>
-        </td> 
+        </td>
     </tr>
 </table>
-</div>
 
