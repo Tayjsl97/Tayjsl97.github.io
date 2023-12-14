@@ -1,16 +1,16 @@
 
-## MusER: Musical element-based regularization for Generating Symbolic Music with Emotion
+## MusER: Musical Element-Based Regularization for Generating Symbolic Music with Emotion
 
 ### Generating music with different emotions (4Q).
 
-#### Q1
+- Q1
 
 <div style="text-align: left">
 <table>
     <tr>
-        <td>example 1</td> 
-        <td>example 2</td> 
-        <td>example 3</td> 
+        <td><strong>Example 1</strong></td> 
+        <td><strong>Example 2</strong></td> 
+        <td><strong>Example 3</strong></td> 
    </tr>
     <tr>
   		<td>
@@ -41,14 +41,14 @@
 </table>
 </div>
 
-#### Q2
+- Q2
 
 <div style="text-align: left">
 <table>
     <tr>
-        <td>example 1</td> 
-        <td>example 2</td> 
-        <td>example 3</td> 
+        <td><strong>Example 1</strong></td> 
+        <td><strong>Example 2</strong></td> 
+        <td><strong>Example 3</strong></td> 
    </tr>
     <tr>
   		<td>
@@ -79,14 +79,14 @@
 </table>
 </div>
 
-#### Q3
+- Q3
 
 <div style="text-align: left">
 <table>
     <tr>
-        <td>example 1</td> 
-        <td>example 2</td> 
-        <td>example 3</td> 
+        <td><strong>Example 1</strong></td> 
+        <td><strong>Example 2</strong></td> 
+        <td><strong>Example 3</strong></td> 
    </tr>
     <tr>
   		<td>
@@ -117,14 +117,14 @@
 </table>
 </div>
 
-#### Q4
+- Q4
 
 <div style="text-align: left">
 <table>
     <tr>
-        <td>example 1</td> 
-        <td>example 2</td> 
-        <td>example 3</td> 
+        <td><strong>Example 1</strong></td> 
+        <td><strong>Example 2</strong></td> 
+        <td><strong>Example 3</strong></td> 
    </tr>
     <tr>
   		<td>
@@ -154,21 +154,20 @@
     </tr>
 </table>
 </div>
-<br>
 
 ---
 
 
 ### Musical element transfer
 
-#### Case 1: Transfer velocity in Q1 to music in Q4 (Q4+Q1 v)
+- Case 1: Transfer velocity in Q1 to music in Q4 (Q4+Q1 v)
 
 <div style="text-align: left">
 <table>
     <tr>
-        <td>example 1</td> 
-        <td>example 2</td> 
-        <td>example 3</td> 
+        <td><strong>Example 1</strong></td> 
+        <td><strong>Example 2</strong></td> 
+        <td><strong>Example 3</strong></td> 
    </tr>
     <tr>
   		<td>
@@ -185,93 +184,261 @@
         <td>
         <div style="width: 17em"></div>
         <div>
-        Q4 original: <audio src="https://tayjsl97.github.io/demos/aaai_music/11-Q4.mp3"></audio><br>
-        Q4+Q1 v: <audio src="https://tayjsl97.github.io/demos/aaai_music/11-Q4.mp3"></audio>
+        Q4 original: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/1-Q4_original.mp3">
+        </audio><br>
+        Q4+Q1 v: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/1-Q4+Q1 velocity.mp3">
+        </audio>
         </div>
         </td> 
         <td>
         <div style="width: 17em"></div>
         <div>
-        Q4 original: <audio src="https://tayjsl97.github.io/demos/aaai_music/11-Q4.mp3"></audio><br>
-        Q4+Q1 v: <audio src="https://tayjsl97.github.io/demos/aaai_music/11-Q4.mp3"></audio>
+        Q4 original: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/2-Q4_original.mp3">
+        </audio><br>
+        Q4+Q1 v: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/2-Q4+Q1 velocity.mp3">
+        </audio>
         </div>
         </td> 
     </tr>
 </table>
 </div>
 
+- Case 2: Transfer pitch, duration, and velocity in Q1 to music in Q3 (Q3+Q1 pdv)
 
-<div style="text-align: center">
+<div style="text-align: left">
 <table>
     <tr>
-        <td>黑-马夫打令-齐齐哈尔市</td> 
-        <td>沪-紫竹调（一）-南汇县</td> 
-        <td>鲁-打秋千-青州市</td> 
+        <td><strong>Example 1</strong></td> 
+        <td><strong>Example 2</strong></td> 
+        <td><strong>Example 3</strong></td> 
    </tr>
     <tr>
   		<td>
         <div style="width: 17em"></div>
         <div>
-        <midi-visualizer type="piano-roll" id="fcVisualizer4" src="https://tayjsl97.github.io/demos/tnnls_music/4_黑-1101-马夫打令-齐齐哈尔市.mid"></midi-visualizer>
-        <midi-player src="https://tayjsl97.github.io/demos/tnnls_music/4_黑-1101-马夫打令-齐齐哈尔市.mid" sound-font visualizer="#fcVisualizer4" id="myPlayer1">
-        </midi-player>
+        Q3 original: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/3-Q3_original.mp3">
+        </audio><br>
+        Q3+Q1 pdv: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/3-Q3+Q1 pitch, duration and velocity.mp3">
+        </audio>
         </div>
         </td> 
         <td>
         <div style="width: 17em"></div>
         <div>
-        <midi-visualizer type="piano-roll" id="fcVisualizer5" src="https://tayjsl97.github.io/demos/tnnls_music/5_沪-0521紫竹调（一）-南汇县.mid"></midi-visualizer>
-        <midi-player src="https://tayjsl97.github.io/demos/tnnls_music/5_沪-0521紫竹调（一）-南汇县.mid" sound-font visualizer="#fcVisualizer5" id="myPlayer1">
-        </midi-player>
+        Q3 original: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/4-Q3_original.mp3">
+        </audio><br>
+        Q3+Q1 pdv: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/4-Q3+Q1 pitch, duration and velocity.mp3">
+        </audio>
         </div>
         </td> 
         <td>
         <div style="width: 17em"></div>
         <div>
-        <midi-visualizer type="piano-roll" id="fcVisualizer6" src="https://tayjsl97.github.io/demos/tnnls_music/6_鲁-497-打秋千-青州市.mid"></midi-visualizer>
-        <midi-player src="https://tayjsl97.github.io/demos/tnnls_music/6_鲁-497-打秋千-青州市.mid" sound-font visualizer="#fcVisualizer6" id="myPlayer1">
-        </midi-player>
+        Q3 original: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/5-Q3_original.mp3">
+        </audio><br>
+        Q3+Q1 pdv: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/5-Q3+Q1 pitch, duration and velocity.mp3">
+        </audio>
         </div>
         </td> 
     </tr>
 </table>
 </div>
 
+- Case 3: Transfer tempo in Q1 to music in Q4 (Q4+Q1 t)
 
-<div style="text-align: center">
+<div style="text-align: left">
 <table>
     <tr>
-        <td>苏-鲜花调（一）-扬州市</td> 
-        <td>陕-五更鸟-洛川县</td> 
-        <td>吉-农事打令-安图县</td> 
+        <td><strong>Example 1</strong></td> 
+        <td><strong>Example 2</strong></td> 
+        <td><strong>Example 3</strong></td> 
    </tr>
     <tr>
   		<td>
         <div style="width: 17em"></div>
         <div>
-        <midi-visualizer type="piano-roll" id="fcVisualizer7" src="https://tayjsl97.github.io/demos/tnnls_music/7_苏-0800鲜花调（一）-扬州市.mid"></midi-visualizer>
-        <midi-player src="https://tayjsl97.github.io/demos/tnnls_music/7_苏-0800鲜花调（一）-扬州市.mid" sound-font visualizer="#fcVisualizer7" id="myPlayer1">
-        </midi-player>
+        Q4 original: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/6-Q4_original.mp3">
+        </audio><br>
+        Q4+Q1 t: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/6-Q4+Q1 tempo.mp3">
+        </audio>
         </div>
         </td> 
         <td>
         <div style="width: 17em"></div>
         <div>
-        <midi-visualizer type="piano-roll" id="fcVisualizer8" src="https://tayjsl97.github.io/demos/tnnls_music/8_陕-0344五更鸟-洛川县.mid"></midi-visualizer>
-        <midi-player src="https://tayjsl97.github.io/demos/tnnls_music/8_陕-0344五更鸟-洛川县.mid" sound-font visualizer="#fcVisualizer8" id="myPlayer1">
-        </midi-player>
+        Q4 original: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/7-Q4_original.mp3">
+        </audio><br>
+        Q4+Q1 t: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/7-Q4+Q1 tempo.mp3">
+        </audio>
         </div>
         </td> 
         <td>
         <div style="width: 17em"></div>
         <div>
-        <midi-visualizer type="piano-roll" id="fcVisualizer9" src="https://tayjsl97.github.io/demos/tnnls_music/9-吉-0333农事打令-安图县.mid"></midi-visualizer>
-        <midi-player src="https://tayjsl97.github.io/demos/tnnls_music/9-吉-0333农事打令-安图县.mid" sound-font visualizer="#fcVisualizer9" id="myPlayer1">
-        </midi-player>
+        Q4 original: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/8-Q4_original.mp3">
+        </audio><br>
+        Q4+Q1 t: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/8-Q4+Q1 tempo.mp3">
+        </audio>
         </div>
         </td> 
     </tr>
 </table>
 </div>
 
+- Case 4: Transfer pitch in Q1 to music in Q3 (Q3+Q1 p)
+
+<div style="text-align: left">
+<table>
+    <tr>
+        <td><strong>Example 1</strong></td> 
+        <td><strong>Example 2</strong></td> 
+        <td><strong>Example 3</strong></td> 
+   </tr>
+    <tr>
+  		<td>
+        <div style="width: 17em"></div>
+        <div>
+        Q3 original: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/9-Q3_original.mp3">
+        </audio><br>
+        Q3+Q1 p: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/9-Q3+Q1 pitch.mp3">
+        </audio>
+        </div>
+        </td> 
+        <td>
+        <div style="width: 17em"></div>
+        <div>
+        Q3 original: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/10-Q3_original.mp3">
+        </audio><br>
+        Q3+Q1 p: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/10-Q3+Q1 pitch.mp3">
+        </audio>
+        </div>
+        </td> 
+        <td>
+        <div style="width: 17em"></div>
+        <div>
+        Q3 original: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/11-Q3_original.mp3">
+        </audio><br>
+        Q3+Q1 p: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/11-Q3+Q1 pitch.mp3">
+        </audio>
+        </div>
+        </td> 
+    </tr>
+</table>
+</div>
+
+- Case 5: Transfer duration in Q2 to music in Q3 (Q3+Q2 d)
+
+<div style="text-align: left">
+<table>
+    <tr>
+        <td><strong>Example 1</strong></td> 
+        <td><strong>Example 2</strong></td> 
+        <td><strong>Example 3</strong></td> 
+   </tr>
+    <tr>
+  		<td>
+        <div style="width: 17em"></div>
+        <div>
+        Q3 original: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/12-Q3_original.mp3">
+        </audio><br>
+        Q3+Q2 d: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/12-Q3+Q2 duration.mp3">
+        </audio>
+        </div>
+        </td> 
+        <td>
+        <div style="width: 17em"></div>
+        <div>
+        Q3 original: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/13-Q3_original.mp3">
+        </audio><br>
+        Q3+Q2 d: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/13-Q3+Q2 duration.mp3">
+        </audio>
+        </div>
+        </td> 
+        <td>
+        <div style="width: 17em"></div>
+        <div>
+        Q3 original: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/14-Q3_original.mp3">
+        </audio><br>
+        Q3+Q2 d: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/14-Q3+Q2 duration.mp3">
+        </audio>
+        </div>
+        </td> 
+    </tr>
+</table>
+</div>
+
+- Case 6: Transfer chord in Q2 to music in Q4 (Q4+Q2 c)
+
+<div style="text-align: left">
+<table>
+    <tr>
+        <td><strong>Example 1</strong></td> 
+        <td><strong>Example 2</strong></td> 
+        <td><strong>Example 3</strong></td> 
+   </tr>
+    <tr>
+  		<td>
+        <div style="width: 17em"></div>
+        <div>
+        Q4 original: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/15-Q4_original.mp3">
+        </audio><br>
+        Q4+Q2 c: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/15-Q4+Q2 chord.mp3">
+        </audio>
+        </div>
+        </td> 
+        <td>
+        <div style="width: 17em"></div>
+        <div>
+        Q4 original: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/16-Q4_original.mp3">
+        </audio><br>
+        Q4+Q2 c: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/16-Q4+Q2 chord.mp3">
+        </audio>
+        </div>
+        </td> 
+        <td>
+        <div style="width: 17em"></div>
+        <div>
+        Q4 original: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/17-Q4_original.mp3">
+        </audio><br>
+        Q4+Q2 c: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/17-Q4+Q2 chord.mp3">
+        </audio>
+        </div>
+        </td> 
+    </tr>
+</table>
+</div>
 
