@@ -172,7 +172,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
    </tr>
     <tr>
   		<td>
-        <div style="width: 17em"></div>
+        <div style="width: 25em"></div>
         <div>
         Q4 original: <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/0-Q4_original.mp3">
@@ -180,7 +180,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         </div>
         </td> 
         <td>
-        <div style="width: 17em"></div>
+        <div style="width: 25em"></div>
         <div>
         Q4+Q1 v: <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/0-Q4+Q1 velocity.mp3">
@@ -194,7 +194,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
    </tr>
     <tr>
         <td>
-        <div style="width: 17em"></div>
+        <div style="width: 25em"></div>
         <div>
         Q4 original: <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/1-Q4_original.mp3">
@@ -202,7 +202,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         </div>
         </td> 
         <td>
-        <div style="width: 17em"></div>
+        <div style="width: 25em"></div>
         <div>
         Q4+Q1 v: <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/1-Q4+Q1 velocity.mp3">
@@ -216,7 +216,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
    </tr>
     <tr>
         <td>
-        <div style="width: 17em"></div>
+        <div style="width: 25em"></div>
         <div>
         Q4 original: <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/2-Q4_original.mp3">
@@ -224,7 +224,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         </div>
         </td> 
         <td>
-        <div style="width: 17em"></div>
+        <div style="width: 25em"></div>
         <div>
         Q4+Q1 v: <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/2-Q4+Q1 velocity.mp3">
