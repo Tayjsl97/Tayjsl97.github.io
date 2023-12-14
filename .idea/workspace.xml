@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="upload">
+      <change afterPath="$PROJECT_DIR$/demos/aaai.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/MusER.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogs.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs.md" afterDir="false" />
     </list>
@@ -25,13 +27,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/demos/tnnls_music" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\code\Tayjsl97.github.io\demos\tnnls_music" />
       <recent name="D:\code\Tayjsl97.github.io\images" />
       <recent name="D:\code\Tayjsl97.github.io\demos" />
+      <recent name="D:\code\Tayjsl97.github.io\demos\tnnls_music" />
       <recent name="D:\code\Tayjsl97.github.io\demos\tmm_music" />
     </key>
   </component>
@@ -47,14 +49,8 @@
       <workItem from="1701921108102" duration="268000" />
       <workItem from="1701921381579" duration="732000" />
       <workItem from="1701922128908" duration="112000" />
-      <workItem from="1701922244646" duration="33983000" />
-    </task>
-    <task id="LOCAL-00002" summary="upload">
-      <created>1701922405448</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1701922405448</updated>
+      <workItem from="1701922244646" duration="36031000" />
+      <workItem from="1702556981638" duration="951000" />
     </task>
     <task id="LOCAL-00003" summary="upload">
       <created>1701930943439</created>
@@ -392,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702038528982</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="upload">
+      <created>1702039145825</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1702039145825</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
