@@ -5,6 +5,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
 <br>
 <img src="https://tayjsl97.github.io/images/VA_model.jpg" width="300" height="150" alt="model"/>
 <br>
+<br>
 
 <b><font size=5>Generating music with different emotions (4Q)</font></b>
 
