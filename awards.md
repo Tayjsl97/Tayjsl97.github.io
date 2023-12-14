@@ -62,4 +62,5 @@ Lastest Update: 27th Nov 2023 &nbsp; 
 
 ## Memberships
 
+- Dec 2023 - Dec 2024：AAAI Student Membership
 - Jun 2023 - Jun 2024：IEEE Student Membership, IEEE SMC Membership
