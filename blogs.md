@@ -38,7 +38,7 @@ A Survey on Deep Learning for Symbolic Music Generation: Representations, Algori
 
 ---
 
-<div align="center"><img width="500" height="120" src="/images/demo3.jpg"/></div>
+<div align="center"><img width="600" height="200" src="/images/demo3.jpg"/></div>
 
 - **RL-Chord** is a novel melody harmonization system based on reinforcement learning (RL), which involves a newly designed chord representation, an improved conditional LSTM (CLSTM) model, and three well-designed reward modules. With the help of a pretrained style classifier, RL-Chord can also realize the unsupervised chord generation in Chinese folk style.
 - Accepted by the **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
