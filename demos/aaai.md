@@ -166,7 +166,6 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
 - Case 1: Transfer velocity in Q1 to music in Q4 (Q4+Q1 v)
 
 <table>
-    <div style="text-align: left">
     <tr>
         <td><strong>Example 1</strong></td> 
         <td> </td>
@@ -175,7 +174,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
     </tr>
     <tr>
   		<td>
-        <div style="width: 6em;text-align: right"></div>
+        <div style="width: 6em"></div>
         Q4 original: 
         </td> 
         <td>
@@ -184,7 +183,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         </audio>
         </td>
         <td>
-        <div style="width: 5em"></div>
+        <div style="width: 7em;text-align: right"></div>
         Q4+Q1 v: 
         </td>
         <td>
@@ -246,7 +245,6 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         </td>
     </tr>
 </table>
-</div>
 
 - Case 2: Transfer pitch, duration, and velocity in Q1 to music in Q3 (Q3+Q1 pdv)
 
