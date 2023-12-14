@@ -16,7 +16,9 @@
   		<td>
         <div style="width: 17em"></div>
         <div>
-        <audio src="https://tayjsl97.github.io/demos/aaai_music/0-Q1.mp3"></audio>
+        <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/0-Q1.mp3">
+        </audio>
         </div>
         </td> 
         <td>
@@ -137,36 +139,35 @@
 
 ### Musical element transfer
 
+#### Case 1: Transfer velocity in Q1 to music in Q4 (Q4+Q1 v)
+
 <div style="text-align: center">
 <table>
     <tr>
-        <td>冀-探清水河-深泽县</td> 
-        <td>甘-青丝线挽了个抓鱼的网-广河县</td> 
-        <td>桂-鸭嘴哪有鸡嘴尖-全州县</td> 
+        <td>example 1</td> 
+        <td>example 2</td> 
+        <td>example 3</td> 
    </tr>
     <tr>
   		<td>
         <div style="width: 17em"></div>
         <div>
-        <midi-visualizer type="piano-roll" id="fcVisualizer1" src="https://tayjsl97.github.io/demos/tnnls_music/1_冀-0729探清水河-深泽县.mid"></midi-visualizer>
-        <midi-player src="https://tayjsl97.github.io/demos/tnnls_music/1_冀-0729探清水河-深泽县.mid" sound-font visualizer="#fcVisualizer1" id="myPlayer1">
-        </midi-player>
+        Q4 original: <audio src="https://tayjsl97.github.io/demos/aaai_music/11-Q4.mp3"></audio><br>
+        Q4+Q1 v: <audio src="https://tayjsl97.github.io/demos/aaai_music/11-Q4.mp3"></audio>
         </div>
         </td> 
         <td>
         <div style="width: 17em"></div>
         <div>
-        <midi-visualizer type="piano-roll" id="fcVisualizer2" src="https://tayjsl97.github.io/demos/tnnls_music/2_甘-0790青丝线挽了个抓鱼的网-广河县.mid"></midi-visualizer>
-        <midi-player src="https://tayjsl97.github.io/demos/tnnls_music/2_甘-0790青丝线挽了个抓鱼的网-广河县.mid" sound-font visualizer="#fcVisualizer2" id="myPlayer1">
-        </midi-player>
+        Q4 original: <audio src="https://tayjsl97.github.io/demos/aaai_music/11-Q4.mp3"></audio><br>
+        Q4+Q1 v: <audio src="https://tayjsl97.github.io/demos/aaai_music/11-Q4.mp3"></audio>
         </div>
         </td> 
         <td>
         <div style="width: 17em"></div>
         <div>
-        <midi-visualizer type="piano-roll" id="fcVisualizer3" src="https://tayjsl97.github.io/demos/tnnls_music/3_桂-0577鸭嘴哪有鸡嘴尖-全州县.mid"></midi-visualizer>
-        <midi-player src="https://tayjsl97.github.io/demos/tnnls_music/3_桂-0577鸭嘴哪有鸡嘴尖-全州县.mid" sound-font visualizer="#fcVisualizer3" id="myPlayer1">
-        </midi-player>
+        Q4 original: <audio src="https://tayjsl97.github.io/demos/aaai_music/11-Q4.mp3"></audio><br>
+        Q4+Q1 v: <audio src="https://tayjsl97.github.io/demos/aaai_music/11-Q4.mp3"></audio>
         </div>
         </td> 
     </tr>
@@ -247,7 +248,4 @@
 </table>
 </div>
 
-
----
-Thanks [html-midi-player](https://cifkao.github.io/html-midi-player/) for the excellent MIDI visualization!
 
