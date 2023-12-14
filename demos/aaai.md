@@ -179,7 +179,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         </div>
         </td> 
         <td>
-        <div style="width: 15em;text-align: center">
+        <div style="width: 19em;text-align: center">
         <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/0-Q4_original.mp3">
         </audio>
@@ -209,9 +209,11 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         Q4 original:
         </td> 
         <td>
+        <div style="width: 19em;text-align: center">
         <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/1-Q4_original.mp3">
         </audio>
+        </div>
         </td>
         <td>
         <div style="text-align: right">
@@ -239,9 +241,11 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         </div>
         </td> 
         <td>
+        <div style="width: 19em;text-align: center">
         <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/2-Q4_original.mp3">
         </audio>
+        </div>
         </td>
         <td>
         <div style="text-align: right">
@@ -260,50 +264,102 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
 
 - Case 2: Transfer pitch, duration, and velocity in Q1 to music in Q3 (Q3+Q1 pdv)
 
-<div style="text-align: left">
 <table>
     <tr>
         <td><strong>Example 1</strong></td> 
-        <td><strong>Example 2</strong></td> 
-        <td><strong>Example 3</strong></td> 
-   </tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
     <tr>
   		<td>
-        <div style="width: 17em"></div>
-        <div>
-        Q3 original: <audio id="audio" controls="" preload="none">
+        <div style="width: 6em">
+        Q3 original: 
+        </div>
+        </td> 
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/3-Q3_original.mp3">
-        </audio><br>
-        Q3+Q1 pdv: <audio id="audio" controls="" preload="none">
+        </audio>
+        </div>
+        </td>
+        <td>
+        <div style="width: 7em;text-align: right">
+        Q3+Q1 pdv: 
+        </div>
+        </td>
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/3-Q3+Q1 pitch, duration and velocity.mp3">
         </audio>
         </div>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Example 2</strong></td> 
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+  		<td>
+        Q3 original:
         </td> 
         <td>
-        <div style="width: 17em"></div>
-        <div>
-        Q3 original: <audio id="audio" controls="" preload="none">
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/4-Q3_original.mp3">
-        </audio><br>
-        Q3+Q1 pdv: <audio id="audio" controls="" preload="none">
+        </audio>
+        </div>
+        </td>
+        <td>
+        <div style="text-align: right">
+        Q3+Q1 pdv: 
+        </div>
+        </td>
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/4-Q3+Q1 pitch, duration and velocity.mp3">
         </audio>
         </div>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Example 3</strong></td> 
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+  		<td>
+        <div style="width: 6em">
+        Q3 original: 
+        </div>
         </td> 
         <td>
-        <div style="width: 17em"></div>
-        <div>
-        Q3 original: <audio id="audio" controls="" preload="none">
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/5-Q3_original.mp3">
-        </audio><br>
-        Q3+Q1 pdv: <audio id="audio" controls="" preload="none">
+        </audio>
+        </div>
+        </td>
+        <td>
+        <div style="text-align: right">
+        Q3+Q1 pdv: 
+        </div>
+        </td>
+        <td>
+        <div style="width: 19em;text-align: center">
+        <audio id="audio" controls="" preload="none">
             <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/5-Q3+Q1 pitch, duration and velocity.mp3">
         </audio>
         </div>
-        </td> 
+        </td>
     </tr>
 </table>
-</div>
 
 - Case 3: Transfer tempo in Q1 to music in Q4 (Q4+Q1 t)
 
