@@ -5,7 +5,7 @@
 
 #### Q1
 
-<div style="text-align: center">
+<div style="text-align: left">
 <table>
     <tr>
         <td>example 1</td> 
@@ -24,13 +24,17 @@
         <td>
         <div style="width: 17em"></div>
         <div>
-        <audio src="https://tayjsl97.github.io/demos/aaai_music/1-Q1.mp3"></audio>
+        <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/1-Q1.mp3">
+        </audio>
         </div>
         </td> 
         <td>
         <div style="width: 17em"></div>
         <div>
-        <audio src="https://tayjsl97.github.io/demos/aaai_music/2-Q1.mp3"></audio>
+        <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/2-Q1.mp3">
+        </audio>
         </div>
         </td> 
     </tr>
@@ -39,30 +43,36 @@
 
 #### Q2
 
-<div style="text-align: center">
+<div style="text-align: left">
 <table>
     <tr>
-        <td>BLSTM</td> 
-        <td>CLSTM</td> 
-        <td>DQN</td> 
+        <td>example 1</td> 
+        <td>example 2</td> 
+        <td>example 3</td> 
    </tr>
     <tr>
   		<td>
         <div style="width: 17em"></div>
         <div>
-        <audio src="https://tayjsl97.github.io/demos/aaai_music/3-Q2.mp3"></audio>
+        <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/3-Q2.mp3">
+        </audio>
         </div>
         </td> 
         <td>
         <div style="width: 17em"></div>
         <div>
-        <audio src="https://tayjsl97.github.io/demos/aaai_music/4-Q2.mp3"></audio>
+        <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/4-Q2.mp3">
+        </audio>
         </div>
         </td> 
         <td>
         <div style="width: 17em"></div>
         <div>
-        <audio src="https://tayjsl97.github.io/demos/aaai_music/5-Q2.mp3"></audio>
+        <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/5-Q2.mp3">
+        </audio>
         </div>
         </td> 
     </tr>
@@ -71,30 +81,36 @@
 
 #### Q3
 
-<div style="text-align: center">
+<div style="text-align: left">
 <table>
     <tr>
-        <td>BLSTM</td> 
-        <td>CLSTM</td> 
-        <td>DQN</td> 
+        <td>example 1</td> 
+        <td>example 2</td> 
+        <td>example 3</td> 
    </tr>
     <tr>
   		<td>
         <div style="width: 17em"></div>
         <div>
-        <audio src="https://tayjsl97.github.io/demos/aaai_music/6-Q3.mp3"></audio>
+        <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/6-Q3.mp3">
+        </audio>
         </div>
         </td> 
         <td>
         <div style="width: 17em"></div>
         <div>
-        <audio src="https://tayjsl97.github.io/demos/aaai_music/7-Q3.mp3"></audio>
+        <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/7-Q3.mp3">
+        </audio>
         </div>
         </td> 
         <td>
         <div style="width: 17em"></div>
         <div>
-        <audio src="https://tayjsl97.github.io/demos/aaai_music/8-Q3.mp3"></audio>
+        <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/8-Q3.mp3">
+        </audio>
         </div>
         </td> 
     </tr>
@@ -103,30 +119,36 @@
 
 #### Q4
 
-<div style="text-align: center">
+<div style="text-align: left">
 <table>
     <tr>
-        <td>BLSTM</td> 
-        <td>CLSTM</td> 
-        <td>DQN</td> 
+        <td>example 1</td> 
+        <td>example 2</td> 
+        <td>example 3</td> 
    </tr>
     <tr>
   		<td>
         <div style="width: 17em"></div>
         <div>
-        <audio src="https://tayjsl97.github.io/demos/aaai_music/9-Q4.mp3"></audio>
+        <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/9-Q4.mp3">
+        </audio>
         </div>
         </td> 
         <td>
         <div style="width: 17em"></div>
         <div>
-        <audio src="https://tayjsl97.github.io/demos/aaai_music/10-Q4.mp3"></audio>
+        <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/10-Q4.mp3">
+        </audio>
         </div>
         </td> 
         <td>
         <div style="width: 17em"></div>
         <div>
-        <audio src="https://tayjsl97.github.io/demos/aaai_music/11-Q4.mp3"></audio>
+        <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/11-Q4.mp3">
+        </audio>
         </div>
         </td> 
     </tr>
@@ -141,7 +163,7 @@
 
 #### Case 1: Transfer velocity in Q1 to music in Q4 (Q4+Q1 v)
 
-<div style="text-align: center">
+<div style="text-align: left">
 <table>
     <tr>
         <td>example 1</td> 
@@ -152,8 +174,12 @@
   		<td>
         <div style="width: 17em"></div>
         <div>
-        Q4 original: <audio src="https://tayjsl97.github.io/demos/aaai_music/11-Q4.mp3"></audio><br>
-        Q4+Q1 v: <audio src="https://tayjsl97.github.io/demos/aaai_music/11-Q4.mp3"></audio>
+        Q4 original: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/0-Q4_original.mp3">
+        </audio><br>
+        Q4+Q1 v: <audio id="audio" controls="" preload="none">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/0-Q4+Q1 velocity.mp3">
+        </audio>
         </div>
         </td> 
         <td>
