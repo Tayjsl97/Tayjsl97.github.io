@@ -394,7 +394,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         <td>
         <div style="width: 19em;text-align: center">
         <audio id="audio" controls="" preload="none">
-            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/6-Q4+Q1 tempo~1.mp3">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/6-Q4+Q1 tempo.mp3">
         </audio>
         </div>
         </td>
@@ -424,7 +424,7 @@ The two-dimensional arousal-valence (A-V) emotion model is widely adopted in the
         <td>
         <div style="width: 19em;text-align: center">
         <audio id="audio" controls="" preload="none">
-            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/7-Q4+Q1 tempo~1.mp3">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/aaai_music/7-Q4+Q1 tempo.mp3">
         </audio>
         </div>
         </td>

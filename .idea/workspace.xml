@@ -3,12 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="upload">
       <change beforePath="$PROJECT_DIR$/demos/aaai.md" beforeDir="false" afterPath="$PROJECT_DIR$/demos/aaai.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/aaai_music/10-Q3+Q1 pitch.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/aaai_music/11-Q3+Q1 pitch.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/aaai_music/12-Q3+Q2 duration.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/aaai_music/13-Q3+Q2 duration.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/aaai_music/14-Q3+Q2 duration.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/aaai_music/9-Q3+Q1 pitch.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/aaai_music/6-Q4+Q1 tempo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/demos/aaai_music/6-Q4+Q1 tempo.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/aaai_music/6-Q4+Q1 tempo~1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/aaai_music/7-Q4+Q1 tempo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/demos/aaai_music/7-Q4+Q1 tempo.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/aaai_music/7-Q4+Q1 tempo~1.mp3" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,14 +52,7 @@
       <workItem from="1701921381579" duration="732000" />
       <workItem from="1701922128908" duration="112000" />
       <workItem from="1701922244646" duration="36031000" />
-      <workItem from="1702556981638" duration="15355000" />
-    </task>
-    <task id="LOCAL-00032" summary="upload">
-      <created>1701956996751</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1701956996751</updated>
+      <workItem from="1702556981638" duration="15922000" />
     </task>
     <task id="LOCAL-00033" summary="upload">
       <created>1702024261689</created>
@@ -399,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702622063470</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="upload">
+      <created>1702625752643</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1702625752643</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
