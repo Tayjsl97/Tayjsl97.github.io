@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="upload">
-      <change beforePath="$PROJECT_DIR$/demos/aaai_music/0-Q4+Q1 velolcity.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/demos/aaai_music/0-Q4+Q1 velocity.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/aaai_music/10-Q3+Q1 pitch~1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/aaai_music/11-Q3+Q1 pitch~1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/aaai_music/12-Q3+Q2 duration~1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/aaai_music/13-Q3+Q2 duration~1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/aaai_music/14-Q3+Q2 duration~1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/aaai_music/9-Q3+Q1 pitch~1.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/aaai.md" beforeDir="false" afterPath="$PROJECT_DIR$/demos/aaai.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,14 +54,7 @@
       <workItem from="1701921381579" duration="732000" />
       <workItem from="1701922128908" duration="112000" />
       <workItem from="1701922244646" duration="36031000" />
-      <workItem from="1702556981638" duration="13364000" />
-    </task>
-    <task id="LOCAL-00030" summary="upload">
-      <created>1701956489796</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1701956489796</updated>
+      <workItem from="1702556981638" duration="14633000" />
     </task>
     <task id="LOCAL-00031" summary="upload">
       <created>1701956521929</created>
@@ -393,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702570452087</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="upload">
+      <created>1702616858654</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1702616858654</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
