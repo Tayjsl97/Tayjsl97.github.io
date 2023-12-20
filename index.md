@@ -30,11 +30,11 @@ My current research focuses on automatic music generation using artificial intel
 
 ## News and Updates
 
-- **December 2023：** One paper accepted by AAAI 2024!
-- **June 2023：** One paper accepted by IEEE SMC 2023.
+- **Dec 2023：** One paper accepted by AAAI 2024!
+- **Jun 2023：** One paper accepted by IEEE SMC 2023.
 - **May 2023：** One paper accepted by TMM.
 - **May 2023：** One paper accepted by ACM Computing Surveys.
-- **February 2023：** One paper accepted by TNNLS.
+- **Feb 2023：** One paper accepted by TNNLS.
 <br>
 
 ---
