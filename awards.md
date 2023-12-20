@@ -9,8 +9,9 @@ Lastest Update: 27th Nov 2023 &nbsp; 
 
 ## Educational Background
 
-- **Sep 2019 - now:** Xi'an Jiaotong University (PhD candidate)
-- **Sep 2015 - June 2019:** Northwestern Polytechnical University (BEng)
+- **Mar 2021 - now:** Xi'an Jiaotong University (PhD candidate)
+- **Sep 2019 - Feb 2021:** Xi'an Jiaotong University (Master)
+- **Sep 2015 - Jun 2019:** Northwestern Polytechnical University (BEng)
 
 ## Research Experiences
 ### Deep Music Generation
@@ -24,8 +25,8 @@ Lastest Update: 27th Nov 2023 &nbsp; 
 - Research Topics: Large-scale Musical Emotion Dataset Construction, Static and Dynamic Music Emotion Recognition
 
 ## Teaching Assistant
-- May 2021 - June 201: Graph Theory and Its Applications, XJTU
-- May 2022 - June 202: Graph Theory and Its Applications, XJTU
+- May 2021 - Jun 201: Graph Theory and Its Applications, XJTU
+- May 2022 - Jun 202: Graph Theory and Its Applications, XJTU
 
 
 ## Reviewer
@@ -56,7 +57,7 @@ Lastest Update: 27th Nov 2023 &nbsp; 
 
 - Seq 2023: Excellent Post-Graduate, XJTU
 - Seq 2021: Excellent Post-Graduate, XJTU
-- June 2019：Outstanding Graduation Thesis, NPU 
+- Jun 2019：Outstanding Graduation Thesis, NPU 
 - Seq 2016-2018：Merit Student, NPU
 
 
