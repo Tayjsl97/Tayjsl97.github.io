@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/jishulei.jpg" class="floatpic" width="200" height="200">
+<img src="/images/jishulei.jpg" class="floatpic" width="180" height="180">
 
 Here is **Shulei Ji (Shirly, 吉姝蕾)**.
 
@@ -30,11 +30,11 @@ My current research focuses on automatic music generation using artificial intel
 
 ## News and Updates
 
-- **December 2023：** One paper accepted to AAAI 2024!
-- **June 2023：** One paper accepted to IEEE SMC 2023.
-- **May 2023：** One paper accepted to TMM.
-- **May 2023：** One paper accepted to ACM Computing Surveys.
-- **February 2023：** One paper accepted to TNNLS.
+- **December 2023：** One paper accepted by AAAI 2024!
+- **June 2023：** One paper accepted by IEEE SMC 2023.
+- **May 2023：** One paper accepted by TMM.
+- **May 2023：** One paper accepted by ACM Computing Surveys.
+- **February 2023：** One paper accepted by TNNLS.
 <br>
 
 ---
