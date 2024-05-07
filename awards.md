@@ -30,6 +30,7 @@ Lastest Update: 27th Nov 2023 &nbsp; 
 
 
 ## Reviewer
+- ACM MM 2024
 - ACM Computing Surveys
 - IEEE Transactions on Multimedia
 - IEEE Transactions on Neural Network and Learning Systems
