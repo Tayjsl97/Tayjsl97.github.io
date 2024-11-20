@@ -14,6 +14,11 @@ Lastest Update: 27th Nov 2023 &nbsp; 
 - **Sep 2015 - Jun 2019:** Northwestern Polytechnical University (BEng)
 
 ## Research Experiences
+### Video2Audio
+- May 2024 - Aug 2024
+- Institute for Intelligent Computing (通义实验室) - Alibaba Cloud
+- Research Topics: Video2Audio Generation Based on Multi-Modal LLM 
+  
 ### Deep Music Generation
 - Sep 2019 - now
 - Supported by [Prof. Xinyu Yang](https://gr.xjtu.edu.cn/en/web/xyyang/)
