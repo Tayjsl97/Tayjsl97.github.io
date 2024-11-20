@@ -30,10 +30,13 @@ Lastest Update: 27th Nov 2023 &nbsp; 
 
 
 ## Reviewer
+- ICASSP 2025
 - ACM MM 2024
 - ACM Computing Surveys
 - IEEE Transactions on Multimedia
 - IEEE Transactions on Neural Network and Learning Systems
+- IEEE Transactions on Systems, Man, and Cybernetics
+- Journal of New Music Research
 - Multimedia Systems
 
 ## Scholarships
