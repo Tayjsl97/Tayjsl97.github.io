@@ -9,7 +9,7 @@ Lastest Update: 27th Nov 2023 &nbsp; 
 
 ## Educational Background
 
-- **Mar 2021 - now:** Xi'an Jiaotong University (PhD candidate)
+- **Mar 2021 - Sep 2024:** Xi'an Jiaotong University (PhD)
 - **Sep 2019 - Feb 2021:** Xi'an Jiaotong University (Master)
 - **Sep 2015 - Jun 2019:** Northwestern Polytechnical University (BEng)
 
@@ -20,7 +20,7 @@ Lastest Update: 27th Nov 2023 &nbsp; 
 - Research Topics: Video2Audio Generation Based on Multi-Modal LLM 
   
 ### Deep Music Generation
-- Sep 2019 - now
+- Sep 2019 - Sep 2024
 - Supported by [Prof. Xinyu Yang](https://gr.xjtu.edu.cn/en/web/xyyang/)
 - Research Topics: Symbolic Music Generation, Conditional and Controllable Music Generation, Deep Generative Models<br>
 
