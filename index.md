@@ -6,13 +6,13 @@ layout: page
 
 <img src="/images/jishulei.jpg" class="floatpic" width="180" height="180">
 
-Here is **Shulei Ji (Shirly, 吉姝蕾)**.
+Here is **Shulei Ji (吉姝蕾)**.
 
 I am a postdoctoral fellow at the Innovation Center of Yangtze River Delta and College of Computer Science and Technology, Zhejiang University, advised by [Prof. Kejun Zhang](https://person.zju.edu.cn/zhangkejun) and [Prof. Shouqian Sun](https://person.zju.edu.cn/0091226).
 
 I was a PhD student majoring in **CS** at Xi'an Jiaotong University, advised by [Prof. Xinyu Yang](https://gr.xjtu.edu.cn/en/web/xyyang/).
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *taylorji[at]stu[dot]xjtu[dot]edu[dot]cn*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *shuleiji[at]zju[dot]edu[dot]cn*
 
 <br>
 
