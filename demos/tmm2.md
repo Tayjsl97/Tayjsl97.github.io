@@ -10,7 +10,7 @@
         <td>
         <div style="width: 19em;text-align: center">
         <audio id="audio" controls="" preload="none">
-            <source id="mp3" src="[https://github.com/Tayjsl97/StrucMusDiff/tree/main/generated%20musical%20examples/1.mp3](https://github.com/Tayjsl97/StrucMusDiff/blob/main/generated%20musical%20examples/1.mp3)">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/tmm2/1.mp3">
         </audio>
         </div>
         </td>
@@ -22,7 +22,7 @@
         <td>
         <div style="width: 19em;text-align: center">
         <audio id="audio" controls="" preload="none">
-            <source id="mp3" src="generated%20musical%20examples/2.mp3">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/tmm2/2.mp3">
         </audio>
         </div>
         </td>
@@ -39,7 +39,7 @@
         <td>
         <div style="width: 19em;text-align: center">
         <audio id="audio" controls="" preload="none">
-            <source id="mp3" src="generated%20musical%20examples/3.mp3">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/tmm2/3.mp3">
         </audio>
         </div>
         </td>
@@ -51,7 +51,7 @@
         <td>
         <div style="width: 19em;text-align: center">
         <audio id="audio" controls="" preload="none">
-            <source id="mp3" src="generated%20musical%20examples/4.mp3">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/tmm2/4.mp3">
         </audio>
         </div>
         </td>
@@ -68,7 +68,7 @@
         <td>
         <div style="width: 19em;text-align: center">
         <audio id="audio" controls="" preload="none">
-            <source id="mp3" src="generated%20musical%20examples/5.mp3">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/tmm2/5.mp3">
         </audio>
         </div>
         </td>
@@ -80,7 +80,7 @@
         <td>
         <div style="width: 19em;text-align: center">
         <audio id="audio" controls="" preload="none">
-            <source id="mp3" src="generated%20musical%20examples/6.mp3">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/tmm2/6.mp3">
         </audio>
         </div>
         </td>
@@ -97,7 +97,7 @@
         <td>
         <div style="width: 19em;text-align: center">
         <audio id="audio" controls="" preload="none">
-            <source id="mp3" src="generated%20musical%20examples/7.mp3">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/tmm2/7.mp3">
         </audio>
         </div>
         </td>
@@ -109,7 +109,7 @@
         <td>
         <div style="width: 19em;text-align: center">
         <audio id="audio" controls="" preload="none">
-            <source id="mp3" src="generated%20musical%20examples/8.mp3">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/tmm2/8.mp3">
         </audio>
         </div>
         </td>
@@ -126,7 +126,7 @@
         <td>
         <div style="width: 19em;text-align: center">
         <audio id="audio" controls="" preload="none">
-            <source id="mp3" src="generated%20musical%20examples/9.mp3">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/tmm2/9.mp3">
         </audio>
         </div>
         </td>
@@ -138,7 +138,7 @@
         <td>
         <div style="width: 19em;text-align: center">
         <audio id="audio" controls="" preload="none">
-            <source id="mp3" src="generated%20musical%20examples/10.mp3">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/tmm2/10.mp3">
         </audio>
         </div>
         </td>
@@ -155,7 +155,7 @@
         <td>
         <div style="width: 19em;text-align: center">
         <audio id="audio" controls="" preload="none">
-            <source id="mp3" src="generated%20musical%20examples/11.mp3">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/tmm2/11.mp3">
         </audio>
         </div>
         </td>
@@ -167,7 +167,7 @@
         <td>
         <div style="width: 19em;text-align: center">
         <audio id="audio" controls="" preload="none">
-            <source id="mp3" src="generated%20musical%20examples/12.mp3">
+            <source id="mp3" src="https://tayjsl97.github.io/demos/tmm2/12.mp3">
         </audio>
         </div>
         </td>
