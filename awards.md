@@ -35,6 +35,7 @@ Lastest Update: 27th Nov 2023 &nbsp; 
 
 
 ## Reviewer
+- AAAI 2026
 - ICME 2025
 - ICASSP 2025
 - ACM MM 2024
