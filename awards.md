@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Experiences
 ---
 
-Lastest Update: 27th Nov 2023 &nbsp; 
+Lastest Update: 26th Sep. 2025 &nbsp; 
 <!--[中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)-->
 
 ## Educational Background
