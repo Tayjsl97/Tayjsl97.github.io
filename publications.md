@@ -8,13 +8,16 @@ Lastest Update: 27th Nov 2023&nbsp;
 <!--[中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)-->
 
 ## Conference Paper
+
 - [Multi-Accent Mandarin Dry-Vocal Singing Dataset: Benchmark for Singing Accent Recognition]()<br>Zihao Wang, **Shulei Ji**, Le Ma, Yuhang Jin, Shun Lei, Jianyi Chen, Haoying Fu, Roger B. Dannenberg, Kejun Zhang<br> ACM MM 2025<br> Dublin, Ireland. October, 2025.
 
 - [AI-Assisted Human-Pet Artistic Musical Co-Creation for Wellness Therapy](https://www.ijcai.org/proceedings/2025/1135.pdf)<br>Zihao Wang, Le Ma, Yuhang Jin, Yongsheng Feng, Xin Pan, **Shulei Ji**, Kejun Zhang<br> IJCAI 2025<br> Montreal, Canada. August, 2025.
 
-- [MusER: Musical Element-Based Regularization for Generating Symbolic Music with Emotion](https://arxiv.org/abs/2312.10307)<br>**Shulei Ji**, Xinyu Yang<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI)<br> Vancouver, Canada. February, 2024.
+- [Generative Music Models’ Alignment with Professional and Amateur Users’ Expectations](https://aclanthology.org/2025.findings-acl.360/)<br>Zihao Wang, Jiaxing Yu, Haoxuan Liu, Zehui Zheng, Yuhang Jin, Shuyu Li, **Shulei Ji**, Kejun Zhang<br> ACL 2025 Findings<br>Vienna, Austria. July, 2025
 
-- [Emotion-Conditioned Melody Harmonization with Hierarchical Variational Autoencoder](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Shulei Ji**, Xinyu Yang<br>The 2023 IEEE Conference on Systems, Man, and Cybernetics (IEEE SMC 2023)<br> Honolulu, Oahu, Hawaii, USA. Octorber, 2023.
+- [MusER: Musical Element-Based Regularization for Generating Symbolic Music with Emotion](https://ojs.aaai.org/index.php/AAAI/article/view/29178)<br>**Shulei Ji**, Xinyu Yang<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI)<br> Vancouver, Canada. February, 2024.
+
+- [Emotion-Conditioned Melody Harmonization with Hierarchical Variational Autoencoder](https://ieeexplore.ieee.org/document/10394545/)<br>**Shulei Ji**, Xinyu Yang<br>The 2023 IEEE Conference on Systems, Man, and Cybernetics (IEEE SMC 2023)<br> Honolulu, Oahu, Hawaii, USA. Octorber, 2023.
 
 - [ADFF: Attention Based Deep Feature Fusion Approach for Music Emotion Recognition](https://www.isca-speech.org/archive/pdfs/interspeech_2022/huang22d_interspeech.pdf)<br>Zi Huang, **Shulei Ji**, Zhilan Hu, Chuangjian Cai, Jing Luo, Xinyu Yang<br>INTERSPEECH 2022<br>Incheon Songdo ConvensiA, Korea. September, 2022.
 
