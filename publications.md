@@ -8,6 +8,9 @@ Lastest Update: 27th Nov 2023&nbsp;
 <!--[中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)-->
 
 ## Conference Paper
+- [Multi-Accent Mandarin Dry-Vocal Singing Dataset: Benchmark for Singing Accent Recognition]()<br>Zihao Wang, **Shulei Ji**, Le Ma, Yuhang Jin, Shun Lei, Jianyi Chen, Haoying Fu, Roger B. Dannenberg, Kejun Zhang<br> ACM MM 2025<br> Dublin, Ireland. October, 2025.
+
+- [AI-Assisted Human-Pet Artistic Musical Co-Creation for Wellness Therapy](https://www.ijcai.org/proceedings/2025/1135.pdf)<br>Zihao Wang, Le Ma, Yuhang Jin, Yongsheng Feng, Xin Pan, **Shulei Ji**, Kejun Zhang<br> IJCAI 2025<br> Montreal, Canada. August, 2025.
 
 - [MusER: Musical Element-Based Regularization for Generating Symbolic Music with Emotion](https://arxiv.org/abs/2312.10307)<br>**Shulei Ji**, Xinyu Yang<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI)<br> Vancouver, Canada. February, 2024.
 
