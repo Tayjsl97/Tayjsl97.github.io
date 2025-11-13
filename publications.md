@@ -8,8 +8,9 @@ Lastest Update: 26th Sep. 2025&nbsp;
 <!--[中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)-->
 
 ## Conference Paper
+- [Diff-V2M: A Hierarchical Conditional Diffusion Model with Explicit Rhythmic Modeling for Video-to-Music Generation](https://arxiv.org/abs/2511.09090)<br>**Shulei Ji**, Zihao Wang, Jiaxing Yu, Xiangyuan Yang, Shuyu Li, Songruoyao Wu, Kejun Zhang<br> AAAI 2026<br> Singapore. January, 2026.
 
-- [Multi-Accent Mandarin Dry-Vocal Singing Dataset: Benchmark for Singing Accent Recognition]()<br>Zihao Wang, **Shulei Ji**, Le Ma, Yuhang Jin, Shun Lei, Jianyi Chen, Haoying Fu, Roger B. Dannenberg, Kejun Zhang<br> ACM MM 2025<br> Dublin, Ireland. October, 2025.
+- [Multi-Accent Mandarin Dry-Vocal Singing Dataset: Benchmark for Singing Accent Recognition](https://dl.acm.org/doi/abs/10.1145/3746027.3758210)<br>Zihao Wang, **Shulei Ji**, Le Ma, Yuhang Jin, Shun Lei, Jianyi Chen, Haoying Fu, Roger B. Dannenberg, Kejun Zhang<br> ACM MM 2025<br> Dublin, Ireland. October, 2025.
 
 - [AI-Assisted Human-Pet Artistic Musical Co-Creation for Wellness Therapy](https://www.ijcai.org/proceedings/2025/1135.pdf)<br>Zihao Wang, Le Ma, Yuhang Jin, Yongsheng Feng, Xin Pan, **Shulei Ji**, Kejun Zhang<br> IJCAI 2025<br> Montreal, Canada. August, 2025.
 
